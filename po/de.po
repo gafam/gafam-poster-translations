@@ -26,7 +26,7 @@ msgstr "FILTERT\nDEINE\nGEDANKEN"
 msgid "google-footer"
 msgstr ""
 "Google filtert deine Suchergebnisse und YouTube-\n"
-"Empfehlungen und analisiert deine Reaktion\n"
+"Empfehlungen und analysiert deine Reaktion\n"
 "um dich in einer Filterblase zu betten "
 
 # Apple
@@ -39,7 +39,7 @@ msgstr "WEIß\nWO DEINE\nMUTTER\nIST"
 msgid "apple-footer"
 msgstr ""
 "Benutzt du ein iOS oder Android Smartphone, dann verfolgen,\n"
-"sammeln und analisieren Apple und Google deinen Aufenthaltsort\n"
+"sammeln und analysieren Apple und Google deinen Aufenthaltsort\n"
 "ohne es dir mitzuteilen oder dir eine Wahl zu lassen"
 
 # Facebook
@@ -52,7 +52,7 @@ msgstr "WÄHLT AUS\nWAS DU\nLIEßT"
 msgid "facebook-footer"
 msgstr ""
 "Facebook wählt den Inhalt deiner Neuigkeiten aus\n"
-"und analisiert deine Reaktionen um dich in\n"
+"und analysiert deine Reaktionen um dich in\n"
 "einer Filterblase zu betten"
 
 # Amazon
