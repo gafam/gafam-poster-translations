@@ -1,0 +1,82 @@
+# The GAFAM translations
+# This file is in the public domain (CC0).
+# The GAFAM tech collective <tech@gafam.info>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: The GAFAM translations 2018\n"
+"Report-Msgid-Bugs-To: <tech@gafam.info>\n"
+"POT-Creation-Date: 2018-01-12 10:51+0100\n"
+"PO-Revision-Date: -- -- -- \n"
+"Last-Translator: einsiedlerkrebs <einsiedlerkebs@ginnungagap.org>\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Google
+msgid "google-title"
+msgstr "Google"
+
+msgid "google-body"
+msgstr "FILTERT\nDEINE\nGEDANKEN"
+
+msgid "google-footer"
+msgstr ""
+"Google filtert deine Suchergebnisse und YouTube-\n"
+"Empfehlungen und analysiert deine Reaktion\n"
+"um dich in einer Filterblase zu betten "
+
+# Apple
+msgid "apple-title"
+msgstr "Apple"
+
+msgid "apple-body"
+msgstr "WEIß\nWO DEINE\nMUTTER\nIST"
+
+msgid "apple-footer"
+msgstr ""
+"Benutzt du ein iOS oder Android Smartphone, dann verfolgen,\n"
+"sammeln und analysieren Apple und Google deinen Aufenthaltsort\n"
+"ohne es dir mitzuteilen oder dir eine Wahl zu lassen"
+
+# Facebook
+msgid "facebook-title"
+msgstr "facebook"
+
+msgid "facebook-body"
+msgstr "WÄHLT AUS\nWAS DU\nLIEßT"
+
+msgid "facebook-footer"
+msgstr ""
+"Facebook wählt den Inhalt deiner Neuigkeiten aus\n"
+"und analysiert deine Reaktionen um dich in\n"
+"einer Filterblase zu betten"
+
+# Amazon
+msgid "amazon-title"
+msgstr "amazon"
+
+msgid "amazon-body"
+msgstr "WEIß\nWELCHE GESCHENKE\nDU\nBEKOMMST"
+
+msgid "amazon-footer"
+msgstr ""
+"Analisiert in hinlänglich Verhalten, das trivial\n"
+"erscheinen mag, jedoch viel über deine Persönlichkeit,\n"
+"deine Erwartungen und deine Freunde erzählt"
+
+# Microsoft
+msgid "microsoft-title"
+msgstr "Microsoft"
+
+msgid "microsoft-body"
+msgstr "FORMATS\nYOUR\nKIDS"
+
+msgid "microsoft-footer"
+msgstr ""
+"Kauft sich mit beachtlichen Aufwendungen in\n"
+"Schulen und Universitäten ein, um Lehrende\n" 
+"und Lernende zu konditionieren"
