@@ -25,9 +25,9 @@ msgstr "FILTERT\nDEINE\nGEDANKEN"
 
 msgid "google-footer"
 msgstr ""
-"Google filtert deine Suchergebnisse und YouTube-\n"
-"Empfehlungen und analysiert deine Reaktion\n"
-"um dich in einer Filterblase zu betten "
+"Google filtert Deine Suchergebnisse und Empfehlungen\n"
+"bei YouTube und analysiert Deine Reaktionen,\n"
+"um Dich in einer Filterblase zu betten"
 
 # Apple
 msgid "apple-title"
@@ -38,21 +38,21 @@ msgstr "WEIß\nWO DEINE\nMUTTER\nIST"
 
 msgid "apple-footer"
 msgstr ""
-"Benutzt du ein iOS oder Android Smartphone, dann verfolgen,\n"
-"sammeln und analysieren Apple und Google deinen Aufenthaltsort\n"
-"ohne es dir mitzuteilen oder dir eine Wahl zu lassen"
+"Benutzt Du ein iOS oder Android Smartphone, dann verfolgen,\n"
+"sammeln und analysieren Apple und Google Deinen Aufenthaltsort,\n"
+"ohne es Dir mitzuteilen oder Dir eine Wahl zu lassen"
 
 # Facebook
 msgid "facebook-title"
 msgstr "facebook"
 
 msgid "facebook-body"
-msgstr "WÄHLT AUS\nWAS DU\nLIEßT"
+msgstr "WÄHLT AUS\nWAS DU\nLIEST"
 
 msgid "facebook-footer"
 msgstr ""
-"Facebook wählt den Inhalt deiner Neuigkeiten aus\n"
-"und analysiert deine Reaktionen um dich in\n"
+"Facebook wählt den Inhalt Deines Newsfeeds aus,\n"
+"um Deine Reaktionen zu analysieren und Dich in\n"
 "einer Filterblase zu betten"
 
 # Amazon
@@ -64,9 +64,9 @@ msgstr "WEIß\nWELCHE GESCHENKE\nDU\nBEKOMMST"
 
 msgid "amazon-footer"
 msgstr ""
-"Analisiert in hinlänglich Verhalten, das trivial\n"
-"erscheinen mag, jedoch viel über deine Persönlichkeit,\n"
-"deine Erwartungen und deine Freunde erzählt"
+"In ausreichendem Maße analysiert, verraten trivial\n"
+"erscheinende Verhaltensweisen viel über Deine\n"
+"Persönlichkeit, Deine Erwartungen und Deine Freunde"
 
 # Microsoft
 msgid "microsoft-title"
@@ -77,6 +77,6 @@ msgstr "FORMATS\nYOUR\nKIDS"
 
 msgid "microsoft-footer"
 msgstr ""
-"Kauft sich mit beachtlichen Aufwendungen in\n"
-"Schulen und Universitäten ein, um Lehrende\n" 
+"Microsoft kauft sich mit beachtlichen Aufwendungen\n"
+"in Schulen und Universitäten ein, um Lehrende\n"
 "und Lernende zu konditionieren"
