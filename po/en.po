@@ -18,50 +18,65 @@ msgstr ""
 
 # Google
 msgid "google-title"
-msgstr "google-title"
+msgstr "Google"
 
 msgid "google-body"
-msgstr "google-body"
+msgstr "FILTERS\nYOUR\nTHOUGHTS"
 
 msgid "google-footer"
-msgstr "google-footer"
+msgstr ""
+"Google filters your search results and YouTube\n"
+"recommendations to analyze your reactions\n"
+"and confine you to its filter bubble"
 
 # Apple
 msgid "apple-title"
-msgstr "apple-title"
+msgstr "Apple"
 
 msgid "apple-body"
-msgstr "apple-body"
+msgstr "KNOWS\nWHERE YOUR\nMOM\nIS"
 
 msgid "apple-footer"
-msgstr "apple-footer"
+msgstr ""
+"If you have an iOS or Android smartphone, Apple\n"
+"and Google track, collect and analyze your location\n"
+"without telling you or giving you a choice"
 
 # Facebook
 msgid "facebook-title"
-msgstr "facebook-title"
+msgstr "facebook"
 
 msgid "facebook-body"
-msgstr "facebook-body"
+msgstr "CHOOSES\nWHAT YOU\nREAD"
 
 msgid "facebook-footer"
-msgstr "facebook-footer"
+msgstr ""
+"Facebook selects the contents of your newsfeed\n"
+"to analyze your reactions and confine you to\n"
+"its filter bubble"
 
 # Amazon
 msgid "amazon-title"
-msgstr "amazon-title"
+msgstr "amazon"
 
 msgid "amazon-body"
-msgstr "amazon-body"
+msgstr "KNOWS\nWHAT PRESENTS\nYOU\nARE GETTING"
 
 msgid "amazon-footer"
-msgstr "amazon-footer"
+msgstr ""
+"Analyzed on a sufficient scale, behaviours that\n"
+"might seem trivial can reveal a lot about your\n"
+"personality, your expectations and your peers"
 
 # Microsoft
 msgid "microsoft-title"
-msgstr "microsoft-title"
+msgstr "Microsoft"
 
 msgid "microsoft-body"
-msgstr "microsoft-body"
+msgstr "FORMATS\nYOUR\nKIDS"
 
 msgid "microsoft-footer"
-msgstr "microsoft-footer"
+msgstr ""
+"Microsoft is buying its way into schools\n"
+"and universities by striking deals to train\n"
+"teachers and students"
