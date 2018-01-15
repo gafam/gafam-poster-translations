@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: The GAFAM translations 2018\n"
 "Report-Msgid-Bugs-To: <tech@gafam.info>\n"
 "POT-Creation-Date: 2018-01-12 03:44+0100\n"
-"PO-Revision-Date: 2018-01-12 03:58+0100\n"
+"PO-Revision-Date: 2018-01-15 21:46+0100\n"
 "Last-Translator: The GAFAM translators <translators@gafam.info>\n"
 "Language-Team: French\n"
 "Language: fr\n"
@@ -26,20 +26,20 @@ msgstr "FILTRE\nTA\nPENSÉE"
 msgid "google-footer"
 msgstr ""
 "Google filtre ses résultats de recherche et les\n"
-"recommendations YouTube pour analyser tes\n"
-"réactions et t`enfermer dans sa bulle"
+"recommandations YouTube pour analyser tes\n"
+"réactions et t´enfermer dans sa bulle"
 
 # Apple
 msgid "apple-title"
 msgstr "Apple"
 
 msgid "apple-body"
-msgstr "SAIT\nÒU EST\nTA\nMÈRE"
+msgstr "SAIT\nOÙ EST\nTA\nMÈRE"
 
 msgid "apple-footer"
 msgstr ""
 "Si tu as un smartphone sous iOS ou Android, il permet\n"
-"à Apple, Google et leurs apps d´enrigistrer ta position,\n"
+"à Apple, Google et leurs apps d´enregistrer ta position,\n"
 "sans toujours te le dire ou te laisser le choix"
 
 # Facebook
@@ -65,7 +65,7 @@ msgstr "SAIT\nQUELS\nCADEAUX\nTU AURAS"
 msgid "amazon-footer"
 msgstr ""
 "Les compertements qui te semblent les plus anodins,\n"
-"analysés en masse, révelènt précisément ta\n"
+"analysés en masse, révèlent précisément ta\n"
 "personnalité, tes attentes et celles de ton entourage"
 
 # Microsoft
