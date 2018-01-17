@@ -1,3 +1,8 @@
+.. image:: https://img.shields.io/github/tag/gafam/gafam-poster-translations.svg
+    :target: https://github.com/gafam/gafam-poster-translations
+
+|
+
 ######################################
 The GAFAM poster campaign translations
 ######################################

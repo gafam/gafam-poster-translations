@@ -5,6 +5,9 @@ gafam-poster-translations CHANGES
 
 in progress
 ===========
+
+2018-01-17 0.2.0
+================
 - Convert fr, en and de to i18next JSON format
 - Rename gafam.pot to gafam-poster.pot
 - Add more technical information to README.rst
