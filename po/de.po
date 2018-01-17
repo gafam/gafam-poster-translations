@@ -1,13 +1,13 @@
-# The GAFAM translations
+# The GAFAM poster campaign translations from
+# the GAFAM tech collective <tech@gafam.info>, 2018.
 # This file is in the public domain (CC0).
-# The GAFAM tech collective <tech@gafam.info>, 2018.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: The GAFAM translations 2018\n"
+"Project-Id-Version: The GAFAM poster campaign translations 2018\n"
 "Report-Msgid-Bugs-To: <tech@gafam.info>\n"
-"POT-Creation-Date: 2018-01-12 10:51+0100\n"
-"PO-Revision-Date: -- -- -- \n"
+"POT-Creation-Date: 2018-01-12 03:44+0100\n"
+"PO-Revision-Date: 2018-01-12 10:51+0100\n"
 "Last-Translator: einsiedlerkrebs <einsiedlerkebs@ginnungagap.org>\n"
 "Language-Team: German\n"
 "Language: de\n"
