@@ -13,6 +13,7 @@ in progress
 - Add more technical information to README.rst
 - Add translation into Japanese from the community. Thanks!
 - Add missing Japanese translation for Google poster using Google Translate ;]
+- Complete package.json file
 
 2018-01-12 0.1.0
 ================

@@ -1,5 +1,27 @@
 {
-  "devDependencies": {
-    "i18next-conv": "^6.0.0"
-  }
+    "name": "gafam-poster-translations",
+    "description": "Translations of the GAFAM poster campaign by La Quadrature du Net",
+    "version": "0.1.0",
+    "license": "CC0-1.0",
+    "author": {
+        "name": "The GAFAM tech collective",
+        "email": "tech@gafam.info"
+    },
+    "keywords": [
+        "gafam",
+        "information",
+        "translation",
+        "localization"
+    ],
+    "homepage": "https://github.com/gafam/gafam-poster-translations",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/gafam/gafam-poster-translations.git"
+    },
+    "bugs": {
+        "url": "https://github.com/gafam/gafam-poster-translations/issues"
+    },
+    "devDependencies": {
+        "i18next-conv": "^6.0.0"
+    }
 }
