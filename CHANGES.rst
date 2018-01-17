@@ -15,6 +15,7 @@ in progress
 - Add missing Japanese translation for Google poster using Google Translate ;]
 - Complete package.json file
 - Improve translation file conversion using ``make gettext-to-json``
+- Add "bumpversion" and "release" make targets
 
 2018-01-12 0.1.0
 ================

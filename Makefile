@@ -1,3 +1,7 @@
+# ===================
+# i18next translation
+# ===================
+
 # Which translation files to convert from
 # GNU gettext PO format into i18next JSON format
 LANGUAGES = fr en de jp
@@ -14,3 +18,28 @@ po-to-json:
 # Convert all translation files
 gettext-to-json:
 	$(foreach language,$(LANGUAGES),make po-to-json lang=$(language);)
+
+
+# ===========
+# bumpversion
+# ===========
+
+$(eval venvpath     := .venv27)
+$(eval bumpversion  := $(venvpath)/bin/bumpversion)
+
+virtualenv:
+	@test -e $(venvpath)/bin/python || `command -v virtualenv` --python=`command -v python` --no-site-packages $(venvpath)
+
+bumpversion: virtualenv
+	@$(venvpath)/bin/pip install bumpversion
+	$(bumpversion) $(bump)
+
+
+# =======
+# release
+# =======
+
+push:
+	git push && git push --tags
+
+release: bumpversion push
