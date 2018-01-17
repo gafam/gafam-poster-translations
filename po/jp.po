@@ -1,0 +1,79 @@
+# The GAFAM poster campaign translations from
+# the GAFAM tech collective <tech@gafam.info>, 2018.
+# This file is in the public domain (CC0).
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: The GAFAM poster campaign translations 2018\n"
+"Report-Msgid-Bugs-To: <tech@gafam.info>\n"
+"POT-Creation-Date: 2018-01-12 03:44+0100\n"
+"PO-Revision-Date: 2018-01-17 18:29+0100\n"
+"Last-Translator: The GAFAM poster campaign translators <translators@gafam.info>\n"
+"Language-Team: Japanese\n"
+"Language: jp\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+# Google
+msgid "google-title"
+msgstr ""
+
+msgid "google-body"
+msgstr ""
+
+msgid "google-footer"
+msgstr ""
+
+# Apple
+msgid "apple-title"
+msgstr "アップル"
+
+msgid "apple-body"
+msgstr "知っています\nどこにあなたの\nお母さんが\nいるのか"
+
+msgid "apple-footer"
+msgstr ""
+"もし、あなたがIOS搭載、もしくはアンドロイドスマートフォンをもっているなら\n"
+"アップルとグーグルはあなたの位置情報を追跡し、収集し、分析します\n"
+"あなたに伝えず、選択肢も与えずに。"
+
+# Facebook
+msgid "facebook-title"
+msgstr "フェイスブック"
+
+msgid "facebook-body"
+msgstr "選んでます\nあなたが何を\n読むか"
+
+msgid "facebook-footer"
+msgstr ""
+"フェイスブックはあなたのニュースフィードの中身を選んでる\n"
+"あなたの反応を分析してあなたを閉じ込めるために\n"
+"そのフィルター付きの泡で"
+
+# Amazon
+msgid "amazon-title"
+msgstr "アマゾン"
+
+msgid "amazon-body"
+msgstr "知っています\nどんなプレゼントを\nあなたが\n購入しているか"
+
+msgid "amazon-footer"
+msgstr ""
+"その振る舞いを十分な基準で分析しました些細なことに見えることが\n"
+"あなたについての沢山のことを明らかにします性格、望み、そして\n"
+"あなたの友達のことも"
+
+# Microsoft
+msgid "microsoft-title"
+msgstr "マイクロソフト"
+
+msgid "microsoft-body"
+msgstr "書式化します\nあなたの\n子どもたちを"
+
+msgid "microsoft-footer"
+msgstr ""
+"マイクロソフトは学校や大学への道を買っている\n"
+"最高の契約をするために訓練するんだ\n"
+"先生と生徒を。"
