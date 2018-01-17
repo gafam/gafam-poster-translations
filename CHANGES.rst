@@ -16,6 +16,7 @@ in progress
 - Complete package.json file
 - Improve translation file conversion using ``make gettext-to-json``
 - Add "bumpversion" and "release" make targets
+- Convert Japanese translation to i18next JSON format
 
 2018-01-12 0.1.0
 ================
