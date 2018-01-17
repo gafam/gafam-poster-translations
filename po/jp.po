@@ -18,13 +18,16 @@ msgstr ""
 
 # Google
 msgid "google-title"
-msgstr ""
+msgstr "Google"
 
 msgid "google-body"
-msgstr ""
+msgstr "フィルタ\nきみの\n考え"
 
 msgid "google-footer"
 msgstr ""
+"Googleは検索結果とYouTubeをフィルタリングします\n"
+"あなたの反応を分析するための推奨\n"
+"フィルタのバブルにあなたを閉じ込めます"
 
 # Apple
 msgid "apple-title"
