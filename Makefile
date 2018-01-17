@@ -1,4 +1,16 @@
+# Which translation files to convert from
+# GNU gettext PO format into i18next JSON format
+LANGUAGES = fr en de jp
+
+
+# Convert single translation file
+po-to-json:
+	@echo
+	@echo ------------------------
+	@echo Converting language \"$(lang)\"
+	@echo ------------------------
+	I18NEXT_LANG=$(lang) yarn run i18next-po-to-json
+
+# Convert all translation files
 gettext-to-json:
-	./node_modules/.bin/i18next-conv -l fr -s po/fr.po -t json/fr.json
-	./node_modules/.bin/i18next-conv -l en -s po/en.po -t json/en.json
-	./node_modules/.bin/i18next-conv -l de -s po/de.po -t json/de.json
+	$(foreach language,$(LANGUAGES),make po-to-json lang=$(language);)

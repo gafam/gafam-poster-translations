@@ -73,6 +73,9 @@ Convert GNU gettext PO files to i18next_ JSON format::
 This should convert all ``po/*.po`` files to their
 corresponding ``json/*.json`` pendants.
 
+When adding a new translation to the ``po/`` directory,
+please also update the ``LANGUAGES`` list in the ``Makefile``.
+
 It uses the `i18next-gettext-converter`_ module under the hood.
 
 .. note::
