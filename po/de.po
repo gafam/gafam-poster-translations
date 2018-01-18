@@ -73,7 +73,7 @@ msgid "microsoft-title"
 msgstr "Microsoft"
 
 msgid "microsoft-body"
-msgstr "FORMATS\nYOUR\nKIDS"
+msgstr "FORMATIERT\nDEINE\nKINDER"
 
 msgid "microsoft-footer"
 msgstr ""
