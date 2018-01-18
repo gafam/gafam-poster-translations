@@ -5,6 +5,7 @@ gafam-poster-translations CHANGES
 
 in progress
 ===========
+- Fix Japanese translation for Google poster
 
 2018-01-17 0.2.0
 ================
