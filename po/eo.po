@@ -1,0 +1,82 @@
+# The GAFAM poster campaign translations from
+# the GAFAM tech collective <tech@gafam.info>, 2018.
+# This file is in the public domain (CC0).
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: The GAFAM poster campaign translations 2018\n"
+"Report-Msgid-Bugs-To: <tech@gafam.info>\n"
+"POT-Creation-Date: 2018-01-12 03:44+0100\n"
+"PO-Revision-Date: 2018-01-15 21:46+0100\n"
+"Last-Translator: La Quadrature du Net <translators@gafam.info>\n"
+"Language-Team: Esperanto\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+# Google
+msgid "google-title"
+msgstr "Google"
+
+msgid "google-body"
+msgstr "FILTRAS\nVIAN\nPENSON"
+
+msgid "google-footer"
+msgstr ""
+"Google filtras siajn serĉajn rezultojn kaj\n"
+"YouTube-rekomendojn por analizi viajn\n"
+"reagojn kaj ŝlosi vin en ĝia bobelo"
+
+# Apple
+msgid "apple-title"
+msgstr "Apple"
+
+msgid "apple-body"
+msgstr "SCIAS\nKIE ESTAS\nVIA\nPATRINO"
+
+msgid "apple-footer"
+msgstr ""
+"Se vi havas inteligentan telefonon en iOS aŭ Android, ĝi permesas\n"
+"al Apple, Google kaj iliaj apps registri vian lokon,\n"
+"sen ĉiam diri vin aŭ lasi vin la elekto"
+
+# Facebook
+msgid "facebook-title"
+msgstr "facebook"
+
+msgid "facebook-body"
+msgstr "KONTROLAS\nKION VI\nPOVAS\nLEGI"
+
+msgid "facebook-footer"
+msgstr ""
+"Facebook ordigas la enhavon de siaj novaĵoj\n"
+"por analizi viajn reagojn kaj\n"
+"ŝlosi vin en ĝia bobelo"
+
+# Amazon
+msgid "amazon-title"
+msgstr "amazon"
+
+msgid "amazon-body"
+msgstr "SCIAS\nKION\nDONACOJ\nVI HAVOS"
+
+msgid "amazon-footer"
+msgstr ""
+"La kondutoj, kiuj ŝajnas al vi la plej senkulpaj,\n"
+"analizitaj en maso, malkaŝas precize vian personecon,\n"
+"viajn atendojn kaj tiujn de via entuteco"
+
+# Microsoft
+msgid "microsoft-title"
+msgstr "Microsoft"
+
+msgid "microsoft-body"
+msgstr "FORMATAS\nVIAJN\nINFANOJN"
+
+msgid "microsoft-footer"
+msgstr ""
+"Microsoft aĉetas sian vojon al lernejoj\n"
+"kaj universitatoj per frapado de interkonsentoj\n"
+"por trejni instruistojn kaj studentojn"
