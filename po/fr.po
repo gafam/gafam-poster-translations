@@ -64,7 +64,7 @@ msgstr "SAIT\nQUELS\nCADEAUX\nTU AURAS"
 
 msgid "amazon-footer"
 msgstr ""
-"Les compertements qui te semblent les plus anodins,\n"
+"Les comportements qui te semblent les plus anodins,\n"
 "analysés en masse, révèlent précisément ta\n"
 "personnalité, tes attentes et celles de ton entourage"
 
