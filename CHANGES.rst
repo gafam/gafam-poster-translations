@@ -7,8 +7,9 @@ in progress
 ===========
 - Fix Japanese translation for Google poster
 - Minor fix for German translation
-- Add translation to Espéranto. Thanks, David!
+- Add translation to Esperanto. Thanks, David!
 - Fix French translation
+- Add translation to Russian. Thanks, Elena!
 
 2018-01-17 0.2.0
 ================
