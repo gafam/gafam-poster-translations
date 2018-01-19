@@ -1,0 +1,83 @@
+# The GAFAM poster campaign translations from
+# the GAFAM tech collective <tech@gafam.info>, 2018.
+# This file is in the public domain (CC0).
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: The GAFAM poster campaign translations 2018\n"
+"Report-Msgid-Bugs-To: <tech@gafam.info>\n"
+"POT-Creation-Date: 2018-01-12 03:44+0100\n"
+"PO-Revision-Date: 2018-01-18 22:49+0100\n"
+"Last-Translator: The GAFAM poster campaign translators <translators@gafam.info>\n"
+"Language-Team: Russian\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+# Google
+msgid "google-title"
+msgstr "Google"
+
+msgid "google-body"
+msgstr "ФИЛЬТРУЕТ\nВАШИ\nМЫСЛИ"
+
+msgid "google-footer"
+msgstr ""
+"Google filters your search results and YouTube\n"
+"recommendations to analyze your reactions\n"
+"and confine you to its filter bubble"
+
+# Apple
+msgid "apple-title"
+msgstr "Apple"
+
+msgid "apple-body"
+msgstr "ЗНАЕТ\nГДЕ ВАША\nМАМА\nСЕЙЧАС"
+
+msgid "apple-footer"
+msgstr ""
+"If you have an iOS or Android smartphone, Apple\n"
+"and Google track, collect and analyze your location\n"
+"without telling you or giving you a choice"
+
+# Facebook
+msgid "facebook-title"
+msgstr "Facebook"
+
+msgid "facebook-body"
+msgstr "ВЫБИРАЕТ\nЧТО ВАМ\nЧИТАТЬ"
+
+msgid "facebook-footer"
+msgstr ""
+"Facebook selects the contents of your newsfeed\n"
+"to analyze your reactions and confine you to\n"
+"its filter bubble"
+
+# Amazon
+msgid "amazon-title"
+msgstr "amazon"
+
+msgid "amazon-body"
+msgstr "ЗНАЕТ\nКАКИЕ ПОДАРКИ\nВЫ ПОЛУЧАЕТЕ"
+
+msgid "amazon-footer"
+msgstr ""
+"Analyzed on a sufficient scale, behaviours that\n"
+"might seem trivial can reveal a lot about your\n"
+"personality, your expectations and your peers"
+
+# Microsoft
+msgid "microsoft-title"
+msgstr "Microsoft"
+
+msgid "microsoft-body"
+msgstr "ФОРМАТИРУЕТ\nВАШИХ\nДЕТЕЙ"
+
+msgid "microsoft-footer"
+msgstr ""
+"Microsoft is buying its way into schools\n"
+"and universities by striking deals to train\n"
+"teachers and students"
