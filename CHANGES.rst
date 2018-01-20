@@ -10,6 +10,7 @@ in progress
 - Add translation to Esperanto. Thanks, David!
 - Fix French translation
 - Add translation to Russian. Thanks, Elena!
+- Add translation to Mandarin Chinese. Thanks, Jenny!
 
 2018-01-17 0.2.0
 ================

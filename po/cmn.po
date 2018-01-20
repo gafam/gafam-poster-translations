@@ -1,0 +1,82 @@
+# The GAFAM poster campaign translations from
+# the GAFAM tech collective <tech@gafam.info>, 2018.
+# This file is in the public domain (CC0).
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: The GAFAM poster campaign translations 2018\n"
+"Report-Msgid-Bugs-To: <tech@gafam.info>\n"
+"POT-Creation-Date: 2018-01-12 03:44+0100\n"
+"PO-Revision-Date: 2018-01-20 05:59+0100\n"
+"Last-Translator: The GAFAM poster campaign translators <translators@gafam.info>\n"
+"Language-Team: Mandarin Chinese\n"
+"Language: cmn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+# Google
+msgid "google-title"
+msgstr "谷歌"
+
+msgid "google-body"
+msgstr "过滤\n你的\n想法"
+
+msgid "google-footer"
+msgstr ""
+"谷歌过滤你的搜索结果和Youtube\n"
+"来分析你的反映的建议\n"
+"然后将你过滤"
+
+# Apple
+msgid "apple-title"
+msgstr "苹果"
+
+msgid "apple-body"
+msgstr "知道\n哪里 你的\n妈妈\n是"
+
+msgid "apple-footer"
+msgstr ""
+"如果你用iOS或者安卓手机，苹果\n"
+"还让谷歌确定，搜集以及分析你的地点\n"
+"不通知你或者给你选择"
+
+# Facebook
+msgid "facebook-title"
+msgstr "脸书"
+
+msgid "facebook-body"
+msgstr "选择\n什么 你\n读"
+
+msgid "facebook-footer"
+msgstr ""
+"脸书选择你新鲜事的内容\n"
+"来分析你的反应和判断\n"
+"它的过滤"
+
+# Amazon
+msgid "amazon-title"
+msgstr "亚马逊"
+
+msgid "amazon-body"
+msgstr "知道\n什么 显示\n你\n得到什么"
+
+msgid "amazon-footer"
+msgstr ""
+"Analyzed on a sufficient scale, behaviours that\n"
+"可能看起来微不足道但是能大量反映出你的\n"
+"性格，你的期望和你的朋友"
+
+# Microsoft
+msgid "microsoft-title"
+msgstr "微软"
+
+msgid "microsoft-body"
+msgstr "格式\n你的\n孩子"
+
+msgid "microsoft-footer"
+msgstr ""
+"微软的市场正在进入学校\n"
+"和大学来培训\n"
+"老师和学生"
