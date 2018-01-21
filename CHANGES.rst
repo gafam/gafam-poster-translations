@@ -5,10 +5,10 @@ gafam-poster-translations CHANGES
 
 in progress
 ===========
-- Fix Japanese translation for Google poster
+- Fix Japanese translation for Google poster. Thanks again, Ryota!
 - Minor fix for German translation
 - Add translation to Esperanto. Thanks, David!
-- Fix French translation
+- Fix French translation. Thanks, David!
 - Add translation to Russian. Thanks, Elena!
 - Add translation to Mandarin Chinese. Thanks, Jenny!
 
@@ -17,7 +17,7 @@ in progress
 - Convert fr, en and de to i18next JSON format
 - Rename gafam.pot to gafam-poster.pot
 - Add more technical information to README.rst
-- Add translation into Japanese from the community. Thanks!
+- Add translation into Japanese. Thanks, Ryota!
 - Add missing Japanese translation for Google poster using Google Translate ;]
 - Complete package.json file
 - Improve translation file conversion using ``make gettext-to-json``
