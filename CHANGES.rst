@@ -11,6 +11,7 @@ in progress
 - Fix French translation. Thanks, David!
 - Add translation to Russian. Thanks, Elena!
 - Add translation to Mandarin Chinese. Thanks, Jenny!
+- Improve translation to Mandarin Chinese. Thanks again, Jenny!
 
 2018-01-17 0.2.0
 ================

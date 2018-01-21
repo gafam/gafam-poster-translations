@@ -21,62 +21,62 @@ msgid "google-title"
 msgstr "谷歌"
 
 msgid "google-body"
-msgstr "过滤\n你的\n想法"
+msgstr "将会知道\n你的\n一切想法"
 
 msgid "google-footer"
 msgstr ""
-"谷歌过滤你的搜索结果和Youtube\n"
-"来分析你的反映的建议\n"
-"然后将你过滤"
+"谷歌会知道你的所有搜索结果和YouTube\n"
+"来分析你的反应\n"
+"然后局限你于它过滤的结果里"
 
 # Apple
 msgid "apple-title"
 msgstr "苹果"
 
 msgid "apple-body"
-msgstr "知道\n哪里 你的\n妈妈\n是"
+msgstr "知道\n哪里 你的\n妈妈\n在"
 
 msgid "apple-footer"
 msgstr ""
-"如果你用iOS或者安卓手机，苹果\n"
-"还让谷歌确定，搜集以及分析你的地点\n"
-"不通知你或者给你选择"
+"如果你用iOS或者安卓智能手机或者苹果\n"
+"谷歌将确定搜集以及分析你的地点\n"
+"而你从不会知道"
 
 # Facebook
 msgid "facebook-title"
 msgstr "脸书"
 
 msgid "facebook-body"
-msgstr "选择\n什么 你\n读"
+msgstr "将会控制\n你\n会看到什么"
 
 msgid "facebook-footer"
 msgstr ""
-"脸书选择你新鲜事的内容\n"
-"来分析你的反应和判断\n"
-"它的过滤"
+"脸书会决定你新鲜事的内容\n"
+"根据你的反应来判断\n"
+"它需要过滤的内容"
 
 # Amazon
 msgid "amazon-title"
 msgstr "亚马逊"
 
 msgid "amazon-body"
-msgstr "知道\n什么 显示\n你\n得到什么"
+msgstr "知道\n什么礼物\n你妈妈\n会得到"
 
 msgid "amazon-footer"
 msgstr ""
-"Analyzed on a sufficient scale, behaviours that\n"
-"可能看起来微不足道但是能大量反映出你的\n"
-"性格，你的期望和你的朋友"
+"亚马逊将根据你的行为来判断\n"
+"看起来很微不足道但是其实会透露出很多你的\n"
+"性格期待和朋友"
 
 # Microsoft
 msgid "microsoft-title"
 msgstr "微软"
 
 msgid "microsoft-body"
-msgstr "格式\n你的\n孩子"
+msgstr "将会控制\n你的\n孩子"
 
 msgid "microsoft-footer"
 msgstr ""
-"微软的市场正在进入学校\n"
-"和大学来培训\n"
-"老师和学生"
+"微软的市场在慢慢进入学校和大学\n"
+"低价来培训\n"
+"学生和老师"
