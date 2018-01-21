@@ -5,6 +5,9 @@ gafam-poster-translations CHANGES
 
 in progress
 ===========
+
+2018-01-21 0.3.0
+================
 - Fix Japanese translation for Google poster. Thanks again, Ryota!
 - Minor fix for German translation
 - Add translation to Esperanto. Thanks, David!
