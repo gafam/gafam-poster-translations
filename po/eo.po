@@ -21,13 +21,13 @@ msgid "google-title"
 msgstr "Google"
 
 msgid "google-body"
-msgstr "FILTRAS\nVIAN\nPENSON"
+msgstr "FILTRAS\nVIAJN\nPENSOJN"
 
 msgid "google-footer"
 msgstr ""
-"Google filtras siajn serĉajn rezultojn kaj\n"
-"YouTube-rekomendojn por analizi viajn\n"
-"reagojn kaj ŝlosi vin en ĝia bobelo"
+"Guglo filtras siajn serĉajn rezultojn kaj\n"
+"JuTubo-rekomendojn por analizi viajn\n"
+"reagojn kaj ŝlosi vin en ĝia izola veziko"
 
 # Apple
 msgid "apple-title"
@@ -38,9 +38,9 @@ msgstr "SCIAS\nKIE ESTAS\nVIA\nPATRINO"
 
 msgid "apple-footer"
 msgstr ""
-"Se vi havas inteligentan telefonon en iOS aŭ Android, ĝi permesas\n"
-"al Apple, Google kaj iliaj apps registri vian lokon,\n"
-"sen ĉiam diri vin aŭ lasi vin la elekto"
+"Se vi havas poŝkomputilon en iOS aŭ Android, ĝi permesas\n"
+"al Apple, Guglo kaj iliaj app-oj registri vian pozicion,\n"
+"sen ĉiam diri vin aŭ lasi vin elekti"
 
 # Facebook
 msgid "facebook-title"
@@ -51,9 +51,9 @@ msgstr "KONTROLAS\nKION VI\nPOVAS\nLEGI"
 
 msgid "facebook-footer"
 msgstr ""
-"Facebook ordigas la enhavon de siaj novaĵoj\n"
+"Fejsbuko ordigas la enhavon de via novaĵfluo\n"
 "por analizi viajn reagojn kaj\n"
-"ŝlosi vin en ĝia bobelo"
+"ŝlosi vin en ĝia izola veziko"
 
 # Amazon
 msgid "amazon-title"
@@ -64,9 +64,9 @@ msgstr "SCIAS\nKION\nDONACOJ\nVI HAVOS"
 
 msgid "amazon-footer"
 msgstr ""
-"La kondutoj, kiuj ŝajnas al vi la plej senkulpaj,\n"
-"analizitaj en maso, malkaŝas precize vian personecon,\n"
-"viajn atendojn kaj tiujn de via entuteco"
+"La kondutoj, kiuj ŝajnas al vi la plej malgravaj,\n"
+"amase analizitaj, malkaŝas precize vian personecon,\n"
+"viajn esperojn kaj tiujn de viaj intimuloj"
 
 # Microsoft
 msgid "microsoft-title"
