@@ -1,0 +1,83 @@
+# The GAFAM poster campaign translations from
+# the GAFAM tech collective <tech@gafam.info>, 2018.
+# This file is in the public domain (CC0).
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: The GAFAM poster campaign translations 2018\n"
+"Report-Msgid-Bugs-To: <tech@gafam.info>\n"
+"POT-Creation-Date: 2018-01-12 03:44+0100\n"
+"PO-Revision-Date: 2018-01-12 03:44+0100\n"
+"Last-Translator: The GAFAM poster campaign translators <translators@gafam.info>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+# Google
+msgid "google-title"
+msgstr "Google"
+
+msgid "google-body"
+msgstr "FILTRA\nIL TUO\nPENSIERO"
+
+msgid "google-footer"
+msgstr "Google filtra i risultati delle ricerche\n"
+"e le raccomandazioni YouTube per studiare le tue\n"
+"reazioni e rinchiuderti in una bolla algoritmica"
+
+# Apple
+msgid "apple-title"
+msgstr "Apple"
+
+msgid "apple-body"
+msgstr "SA\nDOVE È\nTUA SORELLA"
+
+msgid "apple-footer"
+msgstr "Un telefono con iOS o Android permette a Apple,\n"
+"Google e le loro applicazioni di registrare la tua posizione\n"
+"senza sempre dirtelo o lasciarti la scelta"
+
+# Facebook
+msgid "facebook-title"
+msgstr "Facebook"
+
+msgid "facebook-body"
+msgstr "CONTROLLA CIÒ\n"
+"CHE TU\n"
+"PUOI LEGGERE"
+
+msgid "facebook-footer"
+msgstr "Facebook filtra i contenuti\n"
+"della lista di notifiche per analizzare\n"
+"le tue reazioni e rinchiuderti in una bolla algoritmica"
+
+# Amazon
+msgid "amazon-title"
+msgstr "amazon"
+
+msgid "amazon-body"
+msgstr "SA\n"
+"CHE REGALI\n"
+"AVRAI TU"
+
+msgid "amazon-footer"
+msgstr "Analizzati su vasta scala\n"
+"comportamenti apparentemente triviali\n"
+"svelano la personalità tua e di quelli attorno a te"
+
+# Microsoft
+msgid "microsoft-title"
+msgstr "Microsoft"
+
+msgid "microsoft-body"
+msgstr "FORMATTA\n"
+"I TUOI\n"
+"FIGLI"
+
+msgid "microsoft-footer"
+msgstr "Microsoft fa affari con scuole ed università\n"
+"per potere spingere insegnanti e studenti\n"
+"ad usare solo i suoi prodotti"
