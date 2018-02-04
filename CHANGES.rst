@@ -6,6 +6,7 @@ gafam-poster-translations CHANGES
 in progress
 ===========
 - Convert updated Mandarin Chinese translation to i18next JSON format
+- Improve translation into Esperanto. Thanks, Valentin!
 
 2018-01-21 0.3.0
 ================
