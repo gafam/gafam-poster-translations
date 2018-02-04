@@ -7,6 +7,7 @@ in progress
 ===========
 - Convert updated Mandarin Chinese translation to i18next JSON format
 - Improve translation into Esperanto. Thanks, Valentin!
+- Add translation into Italian. Thanks, Daniele!
 
 2018-01-21 0.3.0
 ================
