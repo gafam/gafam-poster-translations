@@ -1,0 +1,83 @@
+# The GAFAM poster campaign translations from
+# the GAFAM tech collective <tech@gafam.info>, 2018.
+# This file is in the public domain (CC0).
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: The GAFAM poster campaign translations 2018\n"
+"Report-Msgid-Bugs-To: <tech@gafam.info>\n"
+"POT-Creation-Date: 2018-01-12 03:44+0100\n"
+"PO-Revision-Date: 2018-02-07 10:56+0100\n"
+"Last-Translator: Piotr Dobrowolski <informatic@hackerspace.pl>\n"
+"Language-Team: Polish\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+
+# Google
+msgid "google-title"
+msgstr "Google"
+
+msgid "google-body"
+msgstr "FILTRUJE\nTWOJE\nMYŚLI"
+
+msgid "google-footer"
+msgstr ""
+"Google filtruje Twoje wyniki wyszukiwania oraz\n"
+"rekomendacje YouTube aby analizować Twoje reakcje\n"
+"i zamknąć Cię w bańce informacyjnej"
+
+# Apple
+msgid "apple-title"
+msgstr "Apple"
+
+msgid "apple-body"
+msgstr "WIE\nGDZIE JEST\nTWOJA\nMAMA"
+
+msgid "apple-footer"
+msgstr ""
+"Jeśli posiadasz urządzenie z iOS lub Androidem, Apple\n"
+"oraz Google śledzą, zbierają oraz analizują Twoją lokalizację,\n"
+"bez informowania Cię o tym, ani możliwości dokonania wyboru"
+
+# Facebook
+msgid "facebook-title"
+msgstr "facebook"
+
+msgid "facebook-body"
+msgstr "WYBIERA\nTO CO\nCZYTASZ"
+
+msgid "facebook-footer"
+msgstr ""
+"Facebook wybiera treść na Twojej tablicy\n"
+"aby analizować Twoje reakcje i zamknąć Cię\n"
+"w Twojej bańce informacyjnej"
+
+# Amazon
+msgid "amazon-title"
+msgstr "amazon"
+
+msgid "amazon-body"
+msgstr "WIE\nCO\nDOSTAJESZ\nPOD CHOINKĘ"
+
+msgid "amazon-footer"
+msgstr ""
+"Dokonując analizy na wystarczająco dużą skalę, zachowania\n"
+"które mogą wydawać się błahe, wyjawiają wiele informacji\n"
+"o Twojej osobowości, oczekiwaniach oraz znajomych"
+
+# Microsoft
+msgid "microsoft-title"
+msgstr "Microsoft"
+
+msgid "microsoft-body"
+msgstr "FORMATUJE\nTWOJE\nDZIECI"
+
+msgid "microsoft-footer"
+msgstr ""
+"Microsoft wkupuje się do szkół\n"
+"i uniwersytetów zawierając umowy na szkolenia\n"
+"nauczycieli oraz uczniów"
