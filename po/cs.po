@@ -4,7 +4,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2018-02-09 18:41+0000\n"
+"PO-Revision-Date: 2018-02-10 19:35+0000\n"
 "Last-Translator: Michal Čihař <michal@cihar.com>\n"
 "Language-Team: Czech "
 "<https://hosted.weblate.org/projects/gafam/translations/cs/>\n"
