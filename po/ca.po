@@ -1,0 +1,82 @@
+# The GAFAM poster campaign translations from
+# the GAFAM tech collective <tech@gafam.info>, 2018.
+# This file is in the public domain (CC0).
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: The GAFAM poster campaign translations 2018\n"
+"Report-Msgid-Bugs-To: <tech@gafam.info>\n"
+"POT-Creation-Date: 2018-01-12 03:44+0100\n"
+"PO-Revision-Date: 2018-02-10 22:13+0100\n"
+"Last-Translator: The GAFAM poster campaign translators <translators@gafam.info>\n"
+"Language-Team: Catalan\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+# Google
+msgid "google-title"
+msgstr "Google"
+
+msgid "google-body"
+msgstr "FILTRA\nELS TEUS\nPENSAMENTS"
+
+msgid "google-footer"
+msgstr ""
+"Google filtra els teus resultats de cerca i recomanacions\n"
+"de YouTube per a analitzar les teves reaccions\n"
+"i confinar-te dins la seva bombolla de filtratge"
+
+# Apple
+msgid "apple-title"
+msgstr "Apple"
+
+msgid "apple-body"
+msgstr "SAP\nON ÉS\nLA TEVA\nMARE"
+
+msgid "apple-footer"
+msgstr ""
+"Si tens un smartphone amb iOS o Android, Apple i Google\n"
+"rastregen, emmagatzemen i analitzen la teva localització\n"
+"sense avisar-te o donar-te cap opció"
+
+# Facebook
+msgid "facebook-title"
+msgstr "facebook"
+
+msgid "facebook-body"
+msgstr "DECIDEIX\nEL QUE\nLLEGEIXES"
+
+msgid "facebook-footer"
+msgstr ""
+"Facebook selecciona els continguts del teu mur de notícies\n"
+"per a analitzar les teves reaccions i confinar-te dins\n"
+"la seva bombolla de filtratge"
+
+# Amazon
+msgid "amazon-title"
+msgstr "amazon"
+
+msgid "amazon-body"
+msgstr "SAP\nQUINS REGALS\nADQUIREIXES"
+
+msgid "amazon-footer"
+msgstr ""
+"Analitzats a una escala suficient, comportaments que\n"
+"poden semblar trivials poden revelar molt sobre la teva\n"
+"personalitat, les teves expectatives i els teus companys"
+
+# Microsoft
+msgid "microsoft-title"
+msgstr "Microsoft"
+
+msgid "microsoft-body"
+msgstr "DÓNA FORMA\nALS TEUS\nFILLS"
+
+msgid "microsoft-footer"
+msgstr ""
+"Microsoft compra la seva entrada a les escoles\n"
+"i universitats amb ofertes sorprenents per a\n"
+"entrenar mestres i estudiants"
