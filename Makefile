@@ -4,7 +4,7 @@
 
 # Which translation files to convert from
 # GNU gettext PO format into i18next JSON format
-LANGUAGES = fr en de jp eo ru cmn it pl
+LANGUAGES = fr en de jp eo ru cmn it pl nb_NO ca
 
 
 # Convert single translation file
@@ -41,5 +41,6 @@ bumpversion: virtualenv
 
 push:
 	git push && git push --tags
+	git push lqdn && git push lqdn --tags
 
 release: bumpversion push
