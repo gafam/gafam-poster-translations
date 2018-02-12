@@ -8,7 +8,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: <tech@gafam.info>\n"
 "POT-Creation-Date: 2018-01-12 03:44+0100\n"
 "PO-Revision-Date: 2018-02-12 13:28+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"Last-Translator: The GAFAM tech collective <operations@gafam.info>\n"
 "Language-Team: Norwegian Bokmål "
 "<https://hosted.weblate.org/projects/gafam/translations/nb_NO/>\n"
 "Language: nb_NO\n"
@@ -69,9 +69,8 @@ msgstr ""
 "inne i filterboblen sin"
 
 # Amazon
-#, fuzzy
 msgid "amazon-title"
-msgstr "Amazon"
+msgstr "amazon"
 
 msgid "amazon-body"
 msgstr ""
