@@ -1,0 +1,82 @@
+# The GAFAM poster campaign translations from
+# the GAFAM tech collective <tech@gafam.info>, 2018.
+# This file is in the public domain (CC0).
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: The GAFAM poster campaign translations 2018\n"
+"Report-Msgid-Bugs-To: <tech@gafam.info>\n"
+"POT-Creation-Date: 2018-01-12 03:44+0100\n"
+"PO-Revision-Date: 2018-04-07 21:46+0200\n"
+"Last-Translator: The GAFAM poster campaign translators <translators@gafam.info>\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+# Google
+msgid "google-title"
+msgstr "Google"
+
+msgid "google-body"
+msgstr "FILTRA\nTUS\nIDEAS"
+
+msgid "google-footer"
+msgstr ""
+"Google filtra los resultados de tus búsquedas y\n"
+"las recomendaciones de YouTube para analizar\n"
+"tus reacciones y encerrarte en su burbuja de filtros"
+
+# Apple
+msgid "apple-title"
+msgstr "Apple"
+
+msgid "apple-body"
+msgstr "SABE\nDÓNDE\nESTÁ\nTU MADRE"
+
+msgid "apple-footer"
+msgstr ""
+"Si tienes un smartphone iOS o Android, Apple y Google\n"
+"monitorizan, recopilan y analizan tu ubicación\n"
+"sin decírtelo y sin ofrecerte la posibilidad de elegir"
+
+# Facebook
+msgid "facebook-title"
+msgstr "facebook"
+
+msgid "facebook-body"
+msgstr "ELIGE\nLO QUE\nPUEDES\nLEER"
+
+msgid "facebook-footer"
+msgstr ""
+"Facebook selecciona las \"Últimas noticias\"\n"
+"para analizar tus reacciones y encerrarte en\n"
+"su burbuja de filtros"
+
+# Amazon
+msgid "amazon-title"
+msgstr "amazon"
+
+msgid "amazon-body"
+msgstr "SABE QUÉ\nREGALOS\nRECIBIRÁS"
+
+msgid "amazon-footer"
+msgstr ""
+"Los comportamientos que te parecen más triviales,\n"
+"analizados en masa, revelan de forma muy precisa\n"
+"tu personalidad, tus expectativas y tus amistades"
+
+# Microsoft
+msgid "microsoft-title"
+msgstr "Microsoft"
+
+msgid "microsoft-body"
+msgstr "FORMATEA\nA TUS\nHIJOS"
+
+msgid "microsoft-footer"
+msgstr ""
+"Microsoft paga campañas de promoción en colegios y\n"
+"universidades con ofertas por debajo del mercado\n"
+"para adiestrar a profesores y alumnos"
