@@ -4,7 +4,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2018-04-19 18:48+0000\n"
+"PO-Revision-Date: 2018-04-19 18:51+0000\n"
 "Last-Translator: Capsia Tech <oyqddksr@emlhub.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/gafam/"
 "translations/it/>\n"
