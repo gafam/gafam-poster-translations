@@ -1,0 +1,96 @@
+# The GAFAM poster campaign translations from
+# the GAFAM tech collective <tech@gafam.info>, 2018.
+# This file is in the public domain (CC0).
+#
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-04-04 11:59+0000\n"
+"Last-Translator: Pierre Mesure <pierre.mesure@gmail.com>\n"
+"Language-Team: Swedish\n"
+"Language: sv\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Weblate 2.20-dev\n"
+"Content-Transfer-Encoding: 8bit\n"
+"MIME-Version: 1.0\n"
+"X-Language: sv\n"
+"X-Source-Language: C\n"
+
+# Google
+msgid "google-title"
+msgstr "Google"
+
+msgid "google-body"
+msgstr ""
+"FILTRERAR\n"
+"DINA\n"
+"TANKAR"
+
+msgid "google-footer"
+msgstr ""
+"Google filtrerar dina sökresult och Youtube\n"
+"rekommendationerför att analysera dina reaktioner\n"
+"och spärra in dig i en bubbel"
+
+# Apple
+msgid "apple-title"
+msgstr "Apple"
+
+msgid "apple-body"
+msgstr ""
+"VET\n"
+"VAR DIN\n"
+"MOR\n"
+"FINNS"
+
+msgid "apple-footer"
+msgstr ""
+"Om du har en iOS eller Android mobil kan Apple och Google spåra, kollekta "
+"och analysa din platsinfo utan att berätta för dig eller ge dig val"
+
+# Facebook
+msgid "facebook-title"
+msgstr "facebook"
+
+msgid "facebook-body"
+msgstr ""
+"STYR\n"
+"VAD DU KAN\n"
+"LÄSA"
+
+msgid "facebook-footer"
+msgstr ""
+"Facebook väljer innehållet du ser på din newsfeed\n"
+"för att analysera dina reaktioner och spärra in dig\n"
+"i en bubbel"
+
+# Amazon
+msgid "amazon-title"
+msgstr "amazon"
+
+msgid "amazon-body"
+msgstr ""
+"VET\n"
+"VILKA PRESENTER\n"
+"DU FÅR"
+
+msgid "amazon-footer"
+msgstr ""
+"Om analyserade i stor skala, de vanligaste beteenden\n"
+"kan visa en stor del av din personlighet, \n"
+"dina förväntningar och dina släktningar"
+
+# Microsoft
+msgid "microsoft-title"
+msgstr "Microsoft"
+
+msgid "microsoft-body"
+msgstr ""
+"FORMATERAR\n"
+"DINA\n"
+"BARN"
+
+msgid "microsoft-footer"
+msgstr ""
+"Microsoft betalar skolor och högskolor\n"
+"för att kunna träna lärare och elever"
