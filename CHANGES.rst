@@ -9,7 +9,7 @@ in progress
 - Add translation into Catalan. Thanks, Pau!
 - Add translation into Portuguese. Thanks, mrs-f!
 - Add translation into Swedish. Thanks, Pierre!
-- Rename files for Chinese translation from ``cmn.{po,json}`` to ``zh.{po,json}``
+- Rename files for Chinese translation from ``cmn.{po,json}`` to ``zho.{po,json}``
 - Rename files for Japanese translation from ``jp.{po,json}`` to ``jpn.{po,json}``
 - Rename files for Swedish translation from ``se.{po,json}`` to ``swe.{po,json}``
 
