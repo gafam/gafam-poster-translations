@@ -9,6 +9,7 @@ in progress
 - Add translation into Catalan. Thanks, Pau!
 - Add translation into Portuguese. Thanks, mrs-f!
 - Add translation into Swedish. Thanks, Pierre!
+- Rename files for Chinese translation from ``cmn.{po,json}`` to ``zh.{po,json}``
 
 
 2018-02-08 0.4.0
