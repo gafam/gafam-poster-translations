@@ -1,7 +1,7 @@
 {
     "name": "gafam-poster-translations",
     "description": "Translations of the GAFAM poster campaign by La Quadrature du Net",
-    "version": "0.5.0",
+    "version": "0.6.0",
     "license": "CC0-1.0",
     "author": {
         "name": "The GAFAM tech collective",
