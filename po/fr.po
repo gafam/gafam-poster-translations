@@ -4,14 +4,14 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2018-04-04 11:59+0000\n"
-"Last-Translator: Étienne Deparis <etienne@depar.is>\n"
+"PO-Revision-Date: 2018-05-02 21:00+0000\n"
+"Last-Translator: The GAFAM tech collective <tech@gafam.info>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/gafam/"
 "translations/fr/>\n"
 "Language: fr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.20-dev\n"
+"X-Generator: Weblate 3.0-dev\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 # Google
