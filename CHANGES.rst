@@ -13,6 +13,7 @@ in progress
 - Rename files for Japanese translation from ``jp.{po,json}`` to ``jpn.{po,json}``
 - Rename files for Swedish translation from ``se.{po,json}`` to ``swe.{po,json}``
 - Fix newlines for Swedish translation
+- Inquire list of languages from files in ``po/`` directory
 
 
 2018-02-08 0.4.0

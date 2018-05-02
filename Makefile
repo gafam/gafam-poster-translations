@@ -4,8 +4,7 @@
 
 # Which translation files to convert from
 # GNU gettext PO format into i18next JSON format
-LANGUAGES = fr en de jpn eo ru zh it pl nb_NO ca es pt se
-
+LANGUAGES = $(basename $(notdir $(wildcard po/*.po) ))
 
 # Convert single translation file
 po-to-json:
