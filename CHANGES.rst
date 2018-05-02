@@ -6,6 +6,7 @@ gafam-poster-translations CHANGES
 in progress
 ===========
 - Use ISO-639-1 language codes and ISO-3166-1-alpha-2 country codes
+- Rename files for Norwegian translation from ``nb_NO.{po,json}`` to ``nb.{po,json}``
 
 
 2018-05-02 0.5.0
