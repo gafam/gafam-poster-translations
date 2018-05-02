@@ -12,6 +12,7 @@ in progress
 - Rename files for Chinese translation from ``cmn.{po,json}`` to ``zho.{po,json}``
 - Rename files for Japanese translation from ``jp.{po,json}`` to ``jpn.{po,json}``
 - Rename files for Swedish translation from ``se.{po,json}`` to ``swe.{po,json}``
+- Fix newlines for Swedish translation
 
 
 2018-02-08 0.4.0
