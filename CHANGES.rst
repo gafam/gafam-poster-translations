@@ -5,6 +5,10 @@ gafam-poster-translations CHANGES
 
 in progress
 ===========
+
+
+2018-05-02 0.5.0
+================
 - Add translation into Norwegian Bokmål. Thanks, Allan!
 - Add translation into Catalan. Thanks, Pau!
 - Add translation into Portuguese. Thanks, mrs-f!
