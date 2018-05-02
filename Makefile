@@ -4,7 +4,7 @@
 
 # Which translation files to convert from
 # GNU gettext PO format into i18next JSON format
-LANGUAGES = fr en de jp eo ru zh it pl nb_NO ca es pt se
+LANGUAGES = fr en de jpn eo ru zh it pl nb_NO ca es pt se
 
 
 # Convert single translation file
