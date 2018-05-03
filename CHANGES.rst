@@ -5,7 +5,7 @@ gafam-poster-translations CHANGES
 
 in progress
 ===========
-
+- Amend line breaks for Portuguese facebook body text
 
 2018-05-02 0.6.0
 ================
