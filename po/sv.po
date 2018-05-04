@@ -45,8 +45,9 @@ msgstr ""
 
 msgid "apple-footer"
 msgstr ""
-"Om du har en iOS eller Android mobil kan Apple och Google spåra, kollekta\n"
-"och analysa din platsinfo utan att berätta för dig eller ge dig val"
+"Om du har en iOS eller Android mobil kan Apple och Google\n"
+"spåra, kollekta och analysa din platsinfo\n"
+"utan att berätta för dig eller ge dig val"
 
 # Facebook
 msgid "facebook-title"
