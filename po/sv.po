@@ -29,7 +29,7 @@ msgstr ""
 msgid "google-footer"
 msgstr ""
 "Google filtrerar dina sökresult och Youtube\n"
-"rekommendationerför att analysera dina reaktioner\n"
+"rekommendationer för att analysera dina reaktioner\n"
 "och spärra in dig i en bubbel"
 
 # Apple
@@ -45,8 +45,8 @@ msgstr ""
 
 msgid "apple-footer"
 msgstr ""
-"Om du har en iOS eller Android mobil kan Apple och Google\n"
-"spåra, kollekta och analysa din platsinfo\n"
+"Om du har en iOS eller Android mobil kan Apple\n"
+"och Google spåra, kollekta och analysa din platsinfo\n"
 "utan att berätta för dig eller ge dig val"
 
 # Facebook
