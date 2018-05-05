@@ -7,62 +7,88 @@ msgstr ""
 "Project-Id-Version: The GAFAM poster campaign translations 2018\n"
 "Report-Msgid-Bugs-To: <tech@gafam.info>\n"
 "POT-Creation-Date: 2018-01-12 03:44+0100\n"
-"PO-Revision-Date: 2018-01-12 03:44+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2018-05-06 18:34+0000\n"
+"Last-Translator: ButterflyOfFire <ButterflyOfFire@protonmail.com>\n"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/gafam/"
+"translations/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 3.0-dev\n"
 
 # Google
 msgid "google-title"
-msgstr ""
+msgstr "غوغل"
 
 msgid "google-body"
 msgstr ""
+"يقوم\n"
+"بفَلترة\n"
+"أفكارك"
 
 msgid "google-footer"
 msgstr ""
+"يقوم غوغل بتصفية نتائج البحث و تقديم اقتراحات على اليوتوب\n"
+"قصد دراسة ردود أفعالكم\n"
+"و عزلكم في فقاعته المُقوقَعة"
 
 # Apple
 msgid "apple-title"
-msgstr ""
+msgstr "آبل"
 
 msgid "apple-body"
 msgstr ""
+"على دِراية\n"
+"بمكان تواجُد\n"
+"والدَتِك"
 
 msgid "apple-footer"
 msgstr ""
 
 # Facebook
 msgid "facebook-title"
-msgstr ""
+msgstr "فايسبوك"
 
 msgid "facebook-body"
 msgstr ""
+"يختار\n"
+"لك ما\n"
+"تقرأه"
 
 msgid "facebook-footer"
 msgstr ""
+"يقوم فايسبوك باختيار خيط أخباركم\n"
+"قصد دراسة ردود أفعالكم و عزلكم\n"
+"في فقاعتة المُقوقَعة"
 
 # Amazon
 msgid "amazon-title"
-msgstr ""
+msgstr "أمازون"
 
 msgid "amazon-body"
 msgstr ""
+"على عِلم\n"
+"بالهدايا\n"
+"التي تتلقّاها"
 
 msgid "amazon-footer"
 msgstr ""
 
 # Microsoft
 msgid "microsoft-title"
-msgstr ""
+msgstr "مايكروسوفت"
 
 msgid "microsoft-body"
 msgstr ""
+"تقوم\n"
+"بإعادة تشكيل تفكير\n"
+"أولادكم"
 
 msgid "microsoft-footer"
 msgstr ""
+"إنّ مايكروسوفت بصدد شراء تذكرة لدخول المدارس\n"
+"و الجامعات و بصدد إمضاء صفقات\n"
+"مع الأساتذة و الطلبة"
