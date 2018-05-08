@@ -1,0 +1,80 @@
+# The GAFAM poster campaign translations from
+# the GAFAM tech collective <tech@gafam.info>, 2018.
+# This file is in the public domain (CC0).
+#
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-05-08 11:59+0000\n"
+"Last-Translator: Un tolosenc\n"
+"Language-Team: Occitan <https://hosted.weblate.org/projects/gafam/"
+"translations/oc/>\n"
+"Language: oc\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.20-dev\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Google
+msgid "google-title"
+msgstr "Google"
+
+msgid "google-body"
+msgstr "FILTRA\nTA\nPENSADA"
+
+msgid "google-footer"
+msgstr ""
+"Google filtra sos resultats de recerca e las\n"
+"recomandacions YouTube per analizar tas\n"
+"reaccions e te clavar dins son monde"
+
+# Apple
+msgid "apple-title"
+msgstr "Apple"
+
+msgid "apple-body"
+msgstr "SAP\nONT ES\nTA\nMAIRE"
+
+msgid "apple-footer"
+msgstr ""
+"S’as un smartphone amb iOS o Android, permet\n"
+"a Apple, Google e lors apps d´enregistrar ta posicion,\n"
+"sens totjorn t’o dire o te daissar d’autra opcion"
+
+# Facebook
+msgid "facebook-title"
+msgstr "facebook"
+
+msgid "facebook-body"
+msgstr "CONTRARÒTLA\nÇÒ QUE\nPÒDES\nLEGIR"
+
+msgid "facebook-footer"
+msgstr ""
+"Facebook tria los contenguts de son fil\n"
+"d´actualitat per analizar tas reaccions e\n"
+"te clavar dins son monde"
+
+# Amazon
+msgid "amazon-title"
+msgstr "amazon"
+
+msgid "amazon-body"
+msgstr "SAP\nQUINS\nPRESENTS\nAURÀS"
+
+msgid "amazon-footer"
+msgstr ""
+"Los compòrtaments que te semblan mai anodins,\n"
+"analizats en massa, revèlan precisament ta\n"
+"personalitat, tas espèras e las de tos amics"
+
+# Microsoft
+msgid "microsoft-title"
+msgstr "Microsoft"
+
+msgid "microsoft-body"
+msgstr "FORMATA\nTOS\nDRÒLLES"
+
+msgid "microsoft-footer"
+msgstr ""
+"En 2015, Microsoft paguèt 13 millions d´euros a\n"
+"l´Educacion francesa per poder formar e provesir\n"
+"sas aisinas als escolans e professors"
