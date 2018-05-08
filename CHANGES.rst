@@ -8,6 +8,7 @@ in progress
 - Amend line breaks for Portuguese Facebook body text
 - Amend line breaks for Swedish Apple body text
 - Improve Swedish Apple body text
+- Add translation into Arabic. Thanks, ButterflyOfFire!
 
 2018-05-02 0.6.0
 ================
