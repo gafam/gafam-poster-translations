@@ -10,6 +10,7 @@ in progress
 - Improve Swedish Apple body text
 - Add translation into Arabic. Thanks, ButterflyOfFire!
 - Add translation into Occitan. Thanks, Quentí!
+- Improve translation into Arabic. Thanks, ButterflyOfFire!
 
 2018-05-02 0.6.0
 ================
