@@ -9,6 +9,7 @@ in progress
 - Amend line breaks for Swedish Apple body text
 - Improve Swedish Apple body text
 - Add translation into Arabic. Thanks, ButterflyOfFire!
+- Add translation into Occitan. Thanks, Quentí!
 
 2018-05-02 0.6.0
 ================
