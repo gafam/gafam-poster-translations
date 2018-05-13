@@ -5,6 +5,9 @@ gafam-poster-translations CHANGES
 
 in progress
 ===========
+
+2018-05-13 0.7.0
+================
 - Amend line breaks for Portuguese Facebook body text
 - Amend line breaks for Swedish Apple body text
 - Improve Swedish Apple body text
