@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: The GAFAM poster campaign translations 2018\n"
 "Report-Msgid-Bugs-To: <tech@gafam.info>\n"
 "POT-Creation-Date: 2018-01-12 03:44+0100\n"
-"PO-Revision-Date: 2018-05-06 18:34+0000\n"
+"PO-Revision-Date: 2018-05-13 09:27+0000\n"
 "Last-Translator: ButterflyOfFire <ButterflyOfFire@protonmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/gafam/"
 "translations/ar/>\n"
@@ -47,6 +47,9 @@ msgstr ""
 
 msgid "apple-footer"
 msgstr ""
+"إن كنتم تمتلكون هاتفا ذكيا يشتغل على نظام الأندويد أو آي أواس\n"
+"فإن آبل و غوغل و تطبيقاتهم تقوم بتسجيل تنقلاتكم و تموقعكم\n"
+"مِن دون طلب إذنٍ صريح منكم أو ترك الخيار لكم"
 
 # Facebook
 msgid "facebook-title"
@@ -76,6 +79,8 @@ msgstr ""
 
 msgid "amazon-footer"
 msgstr ""
+"تحليل السلوكيات التي قد تبدو تافهة يمكن أن تكشف الكثير عن شخصيتكم والتوقعات "
+"الخاصة بكم و زملائكم"
 
 # Microsoft
 msgid "microsoft-title"
