@@ -1,0 +1,80 @@
+# The GAFAM poster campaign translations from
+# the GAFAM tech collective <tech@gafam.info>, 2018.
+# This file is in the public domain (CC0).
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: The GAFAM poster campaign translations 2018\n"
+"Report-Msgid-Bugs-To: <tech@gafam.info>\n"
+"POT-Creation-Date: 2018-01-12 03:44+0100\n"
+"PO-Revision-Date: 2018-01-12 03:44+0100\n"
+"Last-Translator: Konrad Fabritius Christensen <restaurant@theendoftheuniverse.eu>\n"
+"Language-Team: Danish\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+# Google
+msgid "google-title"
+msgstr "Google"
+
+msgid "google-body"
+msgstr "FILTRERER\nDINE\nTANKER"
+
+msgid "google-footer"
+msgstr ""
+"Google filtrerer dine søgeresultater og Youtube\n"
+"anbefalinger for at analysere dine reaktioner og\n"
+"indskrænke dig til deres osteklokke"
+
+# Apple
+msgid "apple-title"
+msgstr "Apple"
+
+msgid "apple-body"
+msgstr "VED\nHVOR DIN\nMOR\nER"
+
+msgid "apple-footer"
+msgstr ""
+"Hvis du har en iOS eller Android telefon så overvåger,\n"
+"indsamler og analyserer både Apple og Google din lokation,\n"
+"uden hverken at fortælle dig om det eller give dig et valg."
+
+# Facebook
+msgid "facebook-title"
+msgstr "facebook"
+
+msgid "facebook-body"
+msgstr "STYRER\nHVAD DU\nLÆSER"
+
+msgid "facebook-footer"
+msgstr ""
+"Facebook styrer indholdet af din nyhedsfeed\n"
+"for at analysere dig og indskrænke\n"
+"dig til deres osteklokke"
+
+# Amazon
+msgid "amazon-title"
+msgstr "amazon"
+
+msgid "amazon-body"
+msgstr "VED\nHVILKE\nGAVER\nDU FÅR"
+
+msgid "amazon-footer"
+msgstr ""
+"Analyseret på en stor nok skala kan en ellers triviel opførsel fortælle\n"
+"meget om din personlighed, dine forventninger og dine medmennesker"
+
+# Microsoft
+msgid "microsoft-title"
+msgstr "Microsoft"
+
+msgid "microsoft-body"
+msgstr "FORMER\nDINE\nBØRN"
+
+msgid "microsoft-footer"
+msgstr ""
+"Microsoft køber sin vej ind i skoler og universiteter\n"
+"ved at oplære lærere og studerende"
