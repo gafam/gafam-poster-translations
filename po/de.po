@@ -4,8 +4,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2018-06-20 20:38+0000\n"
-"Last-Translator: nimradium <nimra242001@gmail.com>\n"
+"PO-Revision-Date: 2018-07-13 14:38+0000\n"
+"Last-Translator: ibrahim ethem gürsoy <iegursoy28@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/gafam/"
 "translations/de/>\n"
 "Language: de\n"
