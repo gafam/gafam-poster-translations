@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: The GAFAM poster campaign translations 2018\n"
 "Report-Msgid-Bugs-To: <tech@gafam.info>\n"
 "POT-Creation-Date: 2018-01-12 03:44+0100\n"
-"PO-Revision-Date: 2018-05-13 09:27+0000\n"
+"PO-Revision-Date: 2018-10-23 17:22+0000\n"
 "Last-Translator: ButterflyOfFire <ButterflyOfFire@protonmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/gafam/"
 "translations/ar/>\n"
@@ -17,11 +17,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 3.0-dev\n"
+"X-Generator: Weblate 3.3-dev\n"
 
 # Google
 msgid "google-title"
-msgstr "غوغل"
+msgstr "جوجل"
 
 msgid "google-body"
 msgstr ""
@@ -31,7 +31,7 @@ msgstr ""
 
 msgid "google-footer"
 msgstr ""
-"يقوم غوغل بتصفية نتائج البحث و تقديم اقتراحات على اليوتوب\n"
+"يقوم جوجل بتصفية نتائج البحث و تقديم اقتراحات على اليوتيوب\n"
 "قصد دراسة ردود أفعالكم\n"
 "و عزلكم في فقاعته المُقوقَعة"
 
@@ -48,7 +48,7 @@ msgstr ""
 msgid "apple-footer"
 msgstr ""
 "إن كنتم تمتلكون هاتفا ذكيا يشتغل على نظام الأندويد أو آي أواس\n"
-"فإن آبل و غوغل و تطبيقاتهم تقوم بتسجيل تنقلاتكم و تموقعكم\n"
+"فإن آبل وجوجل و تطبيقاتهم تقوم بتسجيل تنقلاتكم و تموقعكم\n"
 "مِن دون طلب إذنٍ صريح منكم أو ترك الخيار لكم"
 
 # Facebook
@@ -79,8 +79,9 @@ msgstr ""
 
 msgid "amazon-footer"
 msgstr ""
-"تحليل السلوكيات التي قد تبدو تافهة يمكن أن تكشف الكثير عن شخصيتكم والتوقعات "
-"الخاصة بكم و زملائكم"
+"تحليل السلوكيات التي قد تبدو تافهة\n"
+"يمكن أن تكشف الكثير عن شخصيتكم \n"
+"والتوقعات الخاصة بكم و زملائكم"
 
 # Microsoft
 msgid "microsoft-title"
