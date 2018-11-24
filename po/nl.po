@@ -7,61 +7,94 @@ msgstr ""
 "Project-Id-Version: The GAFAM poster campaign translations 2018\n"
 "Report-Msgid-Bugs-To: <tech@gafam.info>\n"
 "POT-Creation-Date: 2018-01-12 03:44+0100\n"
-"PO-Revision-Date: 2018-01-12 03:44+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2018-11-25 21:07+0000\n"
+"Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
+"Language-Team: Dutch <https://hosted.weblate.org/projects/gafam/translations/"
+"nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.3-dev\n"
 
 # Google
 msgid "google-title"
-msgstr ""
+msgstr "Google"
 
 msgid "google-body"
 msgstr ""
+"FILTERT\n"
+"JE\n"
+"GEDACHTEN"
 
 msgid "google-footer"
 msgstr ""
+"Google filtert je zoekresultaten en YouTube-aanbevelingen\n"
+"om je reacties te peilen en je op te sluiten\n"
+"in zijn filterbubbel"
 
 # Apple
 msgid "apple-title"
-msgstr ""
+msgstr "Apple"
 
 msgid "apple-body"
 msgstr ""
+"WEET\n"
+"WAAR JE\n"
+"MOEDER\n"
+"IS"
 
 msgid "apple-footer"
 msgstr ""
+"Als je een iOS- of Android-smartphone hebt, dan\n"
+"houden Apple en Google je locatie bij en analyseren deze\n"
+"zonder het je te vertellen of je een keuze te bieden"
 
 # Facebook
 msgid "facebook-title"
-msgstr ""
+msgstr "facebook"
 
 msgid "facebook-body"
 msgstr ""
+"KIEST\n"
+"WAT JE\n"
+"MOET LEZEN"
 
 msgid "facebook-footer"
 msgstr ""
+"Facebook kiest de inhoud van je nieuwsoverzicht\n"
+"om je reacties te peilen en je op te sluiten in\n"
+"zijn filterbubbel"
 
 # Amazon
 msgid "amazon-title"
-msgstr ""
+msgstr "amazon"
 
 msgid "amazon-body"
 msgstr ""
+"WEET\n"
+"WELKE CADEAUTJES\n"
+"JE KOOPT"
 
 msgid "amazon-footer"
 msgstr ""
+"Als gegevens over jou worden geanalyseerd op grote schaal,\n"
+"dan kan dat veel blootleggen over jouw persoonlijkheid,\n"
+"verwachtingen en leeftijdsgenoten"
 
 # Microsoft
 msgid "microsoft-title"
-msgstr ""
+msgstr "Microsoft"
 
 msgid "microsoft-body"
 msgstr ""
+"FORMATTEERT\n"
+"JE\n"
+"KINDEREN"
 
 msgid "microsoft-footer"
 msgstr ""
+"Microsoft verkoopt zichzelf aan scholen en\n"
+"universiteiten door deals te maken om leraren\n"
+"en studenten op te leiden"
