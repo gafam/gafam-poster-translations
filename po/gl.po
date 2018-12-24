@@ -7,61 +7,94 @@ msgstr ""
 "Project-Id-Version: The GAFAM poster campaign translations 2018\n"
 "Report-Msgid-Bugs-To: <tech@gafam.info>\n"
 "POT-Creation-Date: 2018-01-12 03:44+0100\n"
-"PO-Revision-Date: 2018-01-12 03:44+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2018-12-25 09:08+0000\n"
+"Last-Translator: Xosé M <xosem@disroot.org>\n"
+"Language-Team: Galician <https://hosted.weblate.org/projects/gafam/"
+"translations/gl/>\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.4-dev\n"
 
 # Google
 msgid "google-title"
-msgstr ""
+msgstr "Google"
 
 msgid "google-body"
 msgstr ""
+"FILTRA\n"
+"O QUE\n"
+"PENSAS"
 
 msgid "google-footer"
 msgstr ""
+"Google filtra os resultados das túas buscas e as\n"
+"recomendacións de YouTube para analizar cómo\n"
+"reaccionas e engaiolarte na súa burbulla de filtros"
 
 # Apple
 msgid "apple-title"
-msgstr ""
+msgstr "Apple"
 
 msgid "apple-body"
 msgstr ""
+"SABE\n"
+"ONDE ESTÁ\n"
+"TÚA NAI"
 
 msgid "apple-footer"
 msgstr ""
+"Se ten un dispositivo iOS ou Android, Apple\n"
+"e Google rastrexan, recollen e analizan a súa\n"
+"localización sen o seu consentimento ou darlle opción"
 
 # Facebook
 msgid "facebook-title"
-msgstr ""
+msgstr "facebook"
 
 msgid "facebook-body"
 msgstr ""
+"ESCOLLE\n"
+"O QUE\n"
+"VOSTEDE LE"
 
 msgid "facebook-footer"
 msgstr ""
+"Facebook escolle os contidos do taboleiro de\n"
+"noticias e analiza a súa reacción e engaiolao na\n"
+"súa burbulla de filtros"
 
 # Amazon
 msgid "amazon-title"
-msgstr ""
+msgstr "amazon"
 
 msgid "amazon-body"
 msgstr ""
+"SABE\n"
+"QUE REGALOS\n"
+"LLE ESTÁN\n"
+"A FACER"
 
 msgid "amazon-footer"
 msgstr ""
+"Analizando a unha escala suficiente, comportamentos\n"
+"que semellarían triviais poden revelar moito sobre a súa\n"
+"personalidade, expectativas e as súas amizades"
 
 # Microsoft
 msgid "microsoft-title"
-msgstr ""
+msgstr "Microsoft"
 
 msgid "microsoft-body"
 msgstr ""
+"FORMATEA\n"
+"AOS SEUS\n"
+"FILLOS"
 
 msgid "microsoft-footer"
 msgstr ""
+"Microsoft faise forte nas escolas\n"
+"e universidades forzando acordos para adestrar\n"
+"ao profesorado e estudantes"
