@@ -7,61 +7,95 @@ msgstr ""
 "Project-Id-Version: The GAFAM poster campaign translations 2018\n"
 "Report-Msgid-Bugs-To: <tech@gafam.info>\n"
 "POT-Creation-Date: 2018-01-12 03:44+0100\n"
-"PO-Revision-Date: 2018-01-12 03:44+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2018-12-27 22:50+0000\n"
+"Last-Translator: Olivér Remény <remenyo@gmail.com>\n"
+"Language-Team: Hungarian <https://hosted.weblate.org/projects/gafam/"
+"translations/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.4-dev\n"
 
 # Google
 msgid "google-title"
-msgstr ""
+msgstr "A Google"
 
 msgid "google-body"
 msgstr ""
+"SZŰRI\n"
+"A\n"
+"GONDOLATAIDAT"
 
 msgid "google-footer"
 msgstr ""
+"A Google szűri a keresési találataidat és YouTube\n"
+"ajánlásaid hogy analizálja hogyan reagálsz rá,\n"
+"illetve hogy a saját szűrő buborékjában tartson"
 
 # Apple
 msgid "apple-title"
-msgstr ""
+msgstr "Az Apple"
 
 msgid "apple-body"
 msgstr ""
+"TUDJA\n"
+"HOL VAN\n"
+"AZ\n"
+"ANYÁD"
 
 msgid "apple-footer"
 msgstr ""
+"Ha iOS-es, ha Androidos telefonod van, az Apple\n"
+"és a Google egyaránt követi, gyűjti és elemzi a helyzeted\n"
+"anélkül hogy szólna, vagy hogy dönthetnél róla"
 
 # Facebook
 msgid "facebook-title"
-msgstr ""
+msgstr "A facebook"
 
 msgid "facebook-body"
 msgstr ""
+"DÖNT ARRÓL\n"
+"HOGY MIT\n"
+"OLVASS"
 
 msgid "facebook-footer"
 msgstr ""
+"A Facebook választja ki hírfolyamod tartalmát\n"
+"hogy analizálja a reakciódat, illetve hogy bent tartson a \n"
+"saját filter buborékjában"
 
 # Amazon
 msgid "amazon-title"
-msgstr ""
+msgstr "Az amazon"
 
 msgid "amazon-body"
 msgstr ""
+"TUDJA\n"
+"HOGY MIT\n"
+"KAPTÁL\n"
+"AJÁNDÉKBA"
 
 msgid "amazon-footer"
 msgstr ""
+"Elég nagy csoportot vizsgálva, a triviálisnak\n"
+"tűnő viselkedésformák is sokat fedhetnek fel\n"
+"a személyiségedről, az elvárásairól és a társaidról"
 
 # Microsoft
 msgid "microsoft-title"
-msgstr ""
+msgstr "A Microsoft"
 
 msgid "microsoft-body"
 msgstr ""
+"ALAKÍTJA\n"
+"A\n"
+"GYERMEKEIDET"
 
 msgid "microsoft-footer"
 msgstr ""
+"A Microsoft bevásárolja magát az iskolákba\n"
+"és az egyetemekbe az áraik csökkentésével\n"
+"hogy idomítsa a tanárokat és a diákokat"
