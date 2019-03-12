@@ -1,0 +1,67 @@
+# The GAFAM poster campaign translations from
+# the GAFAM tech collective <tech@gafam.info>, 2018.
+# This file is in the public domain (CC0).
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: The GAFAM poster campaign translations 2018\n"
+"Report-Msgid-Bugs-To: <tech@gafam.info>\n"
+"POT-Creation-Date: 2018-01-12 03:44+0100\n"
+"PO-Revision-Date: 2018-01-12 03:44+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: te\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+# Google
+msgid "google-title"
+msgstr ""
+
+msgid "google-body"
+msgstr ""
+
+msgid "google-footer"
+msgstr ""
+
+# Apple
+msgid "apple-title"
+msgstr ""
+
+msgid "apple-body"
+msgstr ""
+
+msgid "apple-footer"
+msgstr ""
+
+# Facebook
+msgid "facebook-title"
+msgstr ""
+
+msgid "facebook-body"
+msgstr ""
+
+msgid "facebook-footer"
+msgstr ""
+
+# Amazon
+msgid "amazon-title"
+msgstr ""
+
+msgid "amazon-body"
+msgstr ""
+
+msgid "amazon-footer"
+msgstr ""
+
+# Microsoft
+msgid "microsoft-title"
+msgstr ""
+
+msgid "microsoft-body"
+msgstr ""
+
+msgid "microsoft-footer"
+msgstr ""
