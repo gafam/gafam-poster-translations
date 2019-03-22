@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: The GAFAM poster campaign translations 2018\n"
 "Report-Msgid-Bugs-To: <tech@gafam.info>\n"
 "POT-Creation-Date: 2018-01-12 03:44+0100\n"
-"PO-Revision-Date: 2019-03-13 09:03+0000\n"
-"Last-Translator: Ganesh Katrapati <ganesh@swecha.net>\n"
+"PO-Revision-Date: 2019-03-23 19:38+0000\n"
+"Last-Translator: akshith reddy <dayamakshith15@gmail.com>\n"
 "Language-Team: Telugu <https://hosted.weblate.org/projects/gafam/"
 "translations/te/>\n"
 "Language: te\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.5.1\n"
+"X-Generator: Weblate 3.6-dev\n"
 
 # Google
 msgid "google-title"
@@ -46,33 +46,55 @@ msgstr ""
 
 msgid "apple-footer"
 msgstr ""
+"మీరు ఒక IOS లేదా యాండ్రాయిడ్ స్మార్ట్ఫోన్, ఆపిల్\n"
+" మరియు గూగుల్ ట్రాక్ ఉంటే, మీకు చెప్పకుండా లేదా\n"
+" మీకు ఎంపిక ఇవ్వకుండానే మీ స్థానాన్ని  సేకరిస్తుంది   మరియు విశ్లేహిస్తుంది"
 
 # Facebook
 msgid "facebook-title"
-msgstr ""
+msgstr "ఫేసుబుక్"
 
 msgid "facebook-body"
 msgstr ""
+"మీరు\n"
+" ఏమి చదవాలో \n"
+"ఫేస్ బుక్ నిర్ణయిస్తుంది"
 
 msgid "facebook-footer"
 msgstr ""
+"మీ ప్రతిచర్యలను విశ్లేషించడానికి మరియు\n"
+" దాని ఫిల్టర్ బబుల్కు మిమ్మల్ని నిర్బంధించడానికి\n"
+" మీ ఫేస్బుక్ యొక్క కంటెంట్లను ఫేస్బుక్ ఎంపిక చేస్తుంది"
 
 # Amazon
 msgid "amazon-title"
-msgstr ""
+msgstr "అమెజాన్"
 
 msgid "amazon-body"
 msgstr ""
+"అమెజాన్ కి మీకు\n"
+" ఏ బాగుమతులు\n"
+" వస్తున్నాయో తెలుసు"
 
 msgid "amazon-footer"
 msgstr ""
+"తగినంత స్థాయిలో విశ్లేషించడం,\n"
+" అప్రమత్తంగా కనిపించే ప్రవర్తనలు\n"
+" మీ వ్యక్తిత్వాన్ని, మీ అంచనాలను మరియు మీ సహచరులను  గుర్తిస్తుంది"
 
 # Microsoft
 msgid "microsoft-title"
-msgstr ""
+msgstr "మైక్రోసాఫ్ట్"
 
 msgid "microsoft-body"
 msgstr ""
+"మీ పిల్లల \n"
+"రూపనిరూపణ\n"
+" మైక్రోసాఫ్ట్ చేస్తుంది"
 
+#, fuzzy
 msgid "microsoft-footer"
 msgstr ""
+"మైక్రోసాఫ్ట్ ఉపాధ్యాయులకు మరియు విద్యార్థులకు\n"
+" శిక్షణ ఇవ్వడానికి అద్భుతమైన ఒప్పందాల\n"
+" ద్వారా పాఠశాలలు మరియు విశ్వవిద్యాలయాలలోకి ప్రవేశించింది"
