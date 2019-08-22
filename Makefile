@@ -23,7 +23,7 @@ gettext-to-json:
 # bumpversion
 # ===========
 
-$(eval venvpath     := .venv27)
+$(eval venvpath     := .venv2)
 $(eval bumpversion  := $(venvpath)/bin/bumpversion)
 
 virtualenv:
