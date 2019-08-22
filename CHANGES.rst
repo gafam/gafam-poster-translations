@@ -11,6 +11,7 @@ in progress
 - Remove empty translation into Czech.
 - Add translation into Basque. Thanks, beriain!
 - Add translation into Galician. Thanks, Xosé!
+- Add translation into Hungarian. Thanks, Olivér!
 
 
 2018-05-13 0.7.0
