@@ -13,6 +13,8 @@ in progress
 - Add translation into Galician. Thanks, Xosé!
 - Add translation into Hungarian. Thanks, Olivér!
 - Add translation into Dutch. Thanks, Heimen!
+- Remove translation into Portuguese (Brazil) as it
+  has been identical to regular Portuguese.
 
 
 2018-05-13 0.7.0
