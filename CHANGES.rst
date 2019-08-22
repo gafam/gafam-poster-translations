@@ -5,6 +5,9 @@ gafam-poster-translations CHANGES
 
 in progress
 ===========
+
+2019-08-22 0.8.0
+================
 - Add translation into Danish. Thanks, Konrad!
 - Update translation into Arabic. Thanks, ButterflyOfFire!
 - Update translation into Portuguese. Thanks, Rui!
@@ -16,7 +19,6 @@ in progress
 - Remove translation into Portuguese (Brazil) as it
   has been identical to regular Portuguese.
 - Add translation into Telugu. Thanks, Ganesh and Akshith!
-
 
 2018-05-13 0.7.0
 ================
