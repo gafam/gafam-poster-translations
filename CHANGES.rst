@@ -8,6 +8,7 @@ in progress
 - Add translation into Danish. Thanks, Konrad!
 - Update translation into Arabic. Thanks, ButterflyOfFire!
 - Update translation into Portuguese. Thanks, Rui!
+- Remove empty translation into Czech.
 
 
 2018-05-13 0.7.0
