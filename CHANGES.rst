@@ -15,6 +15,7 @@ in progress
 - Add translation into Dutch. Thanks, Heimen!
 - Remove translation into Portuguese (Brazil) as it
   has been identical to regular Portuguese.
+- Add translation into Telugu. Thanks, Ganesh and Akshith!
 
 
 2018-05-13 0.7.0
