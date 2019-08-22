@@ -5,6 +5,9 @@ gafam-poster-translations CHANGES
 
 in progress
 ===========
+- Add translation into Danish. Thanks, Konrad!
+- Update translation into Arabic. Thanks, ButterflyOfFire!
+
 
 2018-05-13 0.7.0
 ================
