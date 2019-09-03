@@ -4,15 +4,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2018-05-18 22:38+0000\n"
-"Last-Translator: Nicola Lombardi <nicolaandroid23@gmail.com>\n"
+"PO-Revision-Date: 2019-09-04 04:25+0000\n"
+"Last-Translator: Swann Martinet <swann.ranskassa@laposte.net>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/gafam/"
 "translations/it/>\n"
 "Language: it\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.0-dev\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 # Google
 msgid "google-title"
@@ -40,7 +40,7 @@ msgstr "Un telefono con iOS o Android permette a Apple,\n"
 
 # Facebook
 msgid "facebook-title"
-msgstr "Facebook"
+msgstr "facebook"
 
 msgid "facebook-body"
 msgstr "CONTROLLA CIÒ\n"
@@ -62,8 +62,9 @@ msgstr "SA\n"
 "AVRAI TU"
 
 msgid "amazon-footer"
-msgstr "Analizzati su vasta scala\n"
-"comportamenti apparentemente triviali\n"
+msgstr ""
+"Ha analizzato su vasta scala\n"
+"comportamenti apparentemente triviali che\n"
 "svelano la personalità tua e di quelli attorno a te"
 
 # Microsoft
