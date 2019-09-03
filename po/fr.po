@@ -4,15 +4,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2018-12-05 09:09+0000\n"
-"Last-Translator: oiseauroch <tobias.ollive@mailoo.org>\n"
+"PO-Revision-Date: 2019-09-04 04:25+0000\n"
+"Last-Translator: Swann Martinet <swann.ranskassa@laposte.net>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/gafam/"
 "translations/fr/>\n"
 "Language: fr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.4-dev\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 # Google
 msgid "google-title"
@@ -25,7 +25,7 @@ msgid "google-footer"
 msgstr ""
 "Google filtre ses résultats de recherche et les\n"
 "recommandations YouTube pour analyser tes\n"
-"réactions et t´enfermer dans sa bulle"
+"réactions et t’enfermer dans sa bulle"
 
 # Apple
 msgid "apple-title"
@@ -37,7 +37,7 @@ msgstr "SAIT\nOÙ EST\nTA\nMÈRE"
 msgid "apple-footer"
 msgstr ""
 "Si tu as un smartphone sous iOS ou Android, il permet\n"
-"à Apple, Google et leurs apps d´enregistrer ta position,\n"
+"à Apple, Google et leurs apps d’enregistrer ta position,\n"
 "sans toujours te le dire ou te laisser le choix"
 
 # Facebook
@@ -50,8 +50,8 @@ msgstr "CONTRÔLE\nCE QUE TU\nPEUX\nLIRE"
 msgid "facebook-footer"
 msgstr ""
 "Facebook trie les contenus de son fil\n"
-"d´actualité pour analyser tes réactions et\n"
-"t´enfermer dans sa bulle"
+"d’actualité pour analyser tes réactions et\n"
+"t’enfermer dans sa bulle"
 
 # Amazon
 msgid "amazon-title"
@@ -75,6 +75,6 @@ msgstr "FORMATE\nTES\nENFANTS"
 
 msgid "microsoft-footer"
 msgstr ""
-"En 2015, Microsoft a payé 13 millions d´euros à\n"
-"l´Education nationale pour pouvoir former et fournir\n"
+"En 2015, Microsoft a payé 13 millions d’euros à\n"
+"l’Éducation nationale pour pouvoir former et fournir\n"
 "ses outils aux élèves et enseignants"
