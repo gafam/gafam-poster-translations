@@ -4,14 +4,14 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2018-12-06 05:08+0000\n"
-"Last-Translator: Kevin Sword <scimitar524@gmail.com>\n"
+"PO-Revision-Date: 2019-10-23 10:53+0000\n"
+"Last-Translator: homycal <jullien.nom@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/gafam/"
 "translations/en/>\n"
 "Language: en\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.9.1-dev\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 # Google
