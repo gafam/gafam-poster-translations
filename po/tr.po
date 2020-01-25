@@ -7,61 +7,93 @@ msgstr ""
 "Project-Id-Version: The GAFAM poster campaign translations 2018\n"
 "Report-Msgid-Bugs-To: <tech@gafam.info>\n"
 "POT-Creation-Date: 2018-01-12 03:44+0100\n"
-"PO-Revision-Date: 2018-01-12 03:44+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-01-26 13:21+0000\n"
+"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/gafam/"
+"translations/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.11-dev\n"
 
 # Google
 msgid "google-title"
-msgstr ""
+msgstr "Google"
 
 msgid "google-body"
 msgstr ""
+"DÜŞÜNCELERİNİZİ\n"
+"FİLTRELER"
 
 msgid "google-footer"
 msgstr ""
+"Google, reaksiyonlarınızı analiz etmek ve sizi filtre\n"
+"balonuna hapsetmek için arama sonuçlarınızı\n"
+"ve YouTube önerilerini filtrelemektedir"
 
 # Apple
 msgid "apple-title"
-msgstr ""
+msgstr "Apple"
 
 msgid "apple-body"
 msgstr ""
+"ANNENİZİN\n"
+"NEREDE\n"
+"OLDUĞUNU\n"
+"BİLİR"
 
 msgid "apple-footer"
 msgstr ""
+"Bir iOS veya Android akıllı telefonunuz varsa, Apple ve\n"
+"Google, size söylemeden veya size bir seçenek sunmadan\n"
+"konumunuzu toplamakta ve analiz etmektedir"
 
 # Facebook
 msgid "facebook-title"
-msgstr ""
+msgstr "facebook"
 
 msgid "facebook-body"
 msgstr ""
+"NE\n"
+"OKUDUĞUNUZU\n"
+"SEÇER"
 
 msgid "facebook-footer"
 msgstr ""
+"Facebook, tepkilerinizi analiz etmek ve sizi filtre\n"
+"balonuna hapsetmek için haber akışınızın\n"
+"içeriğini seçmektedir"
 
 # Amazon
 msgid "amazon-title"
-msgstr ""
+msgstr "amazon"
 
 msgid "amazon-body"
 msgstr ""
+"HANGİ\n"
+"HEDİYELERİ\n"
+"ALDIĞINIZI\n"
+"BİLİR"
 
 msgid "amazon-footer"
 msgstr ""
+"Yeterli ölçekte analiz edildiğinde, önemsiz gibi\n"
+"görünen davranışlar kişiliğiniz, beklentileriniz ve\n"
+"yakınlarınız hakkında çok şey ortaya çıkarabilir"
 
 # Microsoft
 msgid "microsoft-title"
-msgstr ""
+msgstr "Microsoft"
 
 msgid "microsoft-body"
 msgstr ""
+"ÇOCUKLARINIZI\n"
+"BİÇİMLENDİRİR"
 
 msgid "microsoft-footer"
 msgstr ""
+"Microsoft, öğretmenleri ve öğrencileri\n"
+"eğitmek için anlaşmalar yaparak okullara\n"
+"ve üniversitelere girmektedir"
