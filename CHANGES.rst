@@ -6,6 +6,12 @@ gafam-poster-translations CHANGES
 in progress
 ===========
 
+2020-02-18 0.9.0
+================
+- Update translation into French and Italian. Thanks, Swann!
+- Add translation into Croatian. Thanks, Milo!
+- Add translation into Turkish. Thanks, Oğuz!
+
 2019-08-22 0.8.0
 ================
 - Add translation into Danish. Thanks, Konrad!
