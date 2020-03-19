@@ -4,15 +4,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2019-09-04 04:25+0000\n"
-"Last-Translator: Swann Martinet <swann.ranskassa@laposte.net>\n"
+"PO-Revision-Date: 2020-03-19 06:44+0000\n"
+"Last-Translator: Jeannette L <j.lavoie@net-c.ca>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/gafam/"
 "translations/it/>\n"
 "Language: it\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.9-dev\n"
+"X-Generator: Weblate 4.0-dev\n"
 
 # Google
 msgid "google-title"
@@ -31,7 +31,10 @@ msgid "apple-title"
 msgstr "Apple"
 
 msgid "apple-body"
-msgstr "SA\nDOVE È\nTUA SORELLA"
+msgstr ""
+"SA\n"
+"DOVE È\n"
+"TUA MADRE"
 
 msgid "apple-footer"
 msgstr "Un telefono con iOS o Android permette a Apple,\n"
