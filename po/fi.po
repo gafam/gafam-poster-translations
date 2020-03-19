@@ -7,61 +7,99 @@ msgstr ""
 "Project-Id-Version: The GAFAM poster campaign translations 2018\n"
 "Report-Msgid-Bugs-To: <tech@gafam.info>\n"
 "POT-Creation-Date: 2018-01-12 03:44+0100\n"
-"PO-Revision-Date: 2018-01-12 03:44+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-03-20 07:36+0000\n"
+"Last-Translator: Jeannette L <j.lavoie@net-c.ca>\n"
+"Language-Team: Finnish <https://hosted.weblate.org/projects/gafam/"
+"translations/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.0-dev\n"
 
 # Google
 msgid "google-title"
-msgstr ""
+msgstr "Google"
 
 msgid "google-body"
 msgstr ""
+"SUODATTAA\n"
+"SINUN\n"
+"AJATUKSESI"
 
+#, fuzzy
 msgid "google-footer"
 msgstr ""
+"Google suodattaa hakutulokset ja YouTube\n"
+"-suosituksia reaktioiden analysoimiseksi\n"
+"ja rajoittaa sinut sen suodatin kupla"
 
 # Apple
 msgid "apple-title"
-msgstr ""
+msgstr "Apple"
 
 msgid "apple-body"
 msgstr ""
+"TIETÄÄ,\n"
+"MISSÄ SINUN\n"
+"ÄITISI\n"
+"ON"
 
 msgid "apple-footer"
 msgstr ""
+"Jos sinulla on iOS- tai Android-älypuhelin, Apple\n"
+"ja Google seuraavat, keräävät ja analysoivat sijaintisi\n"
+"kertomatta sinulle ja antamatta sinun valita"
 
 # Facebook
 msgid "facebook-title"
-msgstr ""
+msgstr "facebook"
 
 msgid "facebook-body"
 msgstr ""
+"VALITSEE,\n"
+"MITÄ SINÄ\n"
+"LUET"
 
+#, fuzzy
 msgid "facebook-footer"
 msgstr ""
+"Facebook valitsee uutissyötteesi sisällön\n"
+"analysoidakseen reaktioitasi ja rajoittaakseen sinut\n"
+"sen suodatinkuplaan"
 
 # Amazon
 msgid "amazon-title"
-msgstr ""
+msgstr "amazon"
 
 msgid "amazon-body"
 msgstr ""
+"TIETÄÄ,\n"
+"MITÄ LAHJOJA\n"
+"SINÄ\n"
+"SAAT"
 
+#, fuzzy
 msgid "amazon-footer"
 msgstr ""
+"Analysoitu riittävän mittakaavassa, käytökset, jotka\n"
+"saattaavat tuntua vähäpätöisiltä voivat paljastaa paljon oman\n"
+"persoonallisuuttasi, odotuksiasi ja vertaisihisi"
 
 # Microsoft
 msgid "microsoft-title"
-msgstr ""
+msgstr "Microsoft"
 
 msgid "microsoft-body"
 msgstr ""
+"MUOTOILEE\n"
+"SINUN\n"
+"LAPSESI"
 
+#, fuzzy
 msgid "microsoft-footer"
 msgstr ""
+"Microsoft ostaa oikeutensa\n"
+"kouluissa kouluttaakseen\n"
+"opettajia ja oppilaita"
