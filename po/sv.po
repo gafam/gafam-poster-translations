@@ -4,7 +4,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-08-21 09:36+0000\n"
+"PO-Revision-Date: 2020-10-23 23:26+0000\n"
 "Last-Translator: Luna Jernberg <droidbittin@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/gafam/"
 "translations/sv/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.2.1-dev\n"
+"X-Generator: Weblate 4.3.1\n"
 "X-Language: sv\n"
 "X-Source-Language: C\n"
 
@@ -46,8 +46,8 @@ msgstr ""
 
 msgid "apple-footer"
 msgstr ""
-"Om du har en iOS eller Android mobil kan Apple\n"
-"och Google spåra, kollekta och analysa din platsinfo\n"
+"Om du har en iOS- eller Android-mobil kan Apple\n"
+"och Google spåra, samla in och analysera din platsinfo\n"
 "utan att berätta för dig eller ge dig val"
 
 # Facebook
