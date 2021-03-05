@@ -4,8 +4,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-08-02 01:41+0000\n"
-"Last-Translator: Daniel <dan.ef1999@gmail.com>\n"
+"PO-Revision-Date: 2021-03-06 20:50+0000\n"
+"Last-Translator: Mihail Iosilevitch <yosik@tutanota.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/gafam/"
 "translations/ru/>\n"
 "Language: ru\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.2-dev\n"
+"X-Generator: Weblate 4.5.1\n"
 
 # Google
 msgid "google-title"
@@ -24,9 +24,9 @@ msgstr "ФИЛЬТРУЕТ\nВАШИ\nМЫСЛИ"
 
 msgid "google-footer"
 msgstr ""
-"Google filters your search results and YouTube\n"
-"recommendations to analyze your reactions\n"
-"and confine you to its filter bubble"
+"Google фильтрует результаты поиска и рекомендации YouTube,\n"
+"чтобы анализировать вашу реакцию\n"
+"и ограничивать вас в информационном пузыре"
 
 # Apple
 msgid "apple-title"
@@ -37,22 +37,22 @@ msgstr "ЗНАЕТ\nГДЕ ВАША\nМАМА\nСЕЙЧАС"
 
 msgid "apple-footer"
 msgstr ""
-"If you have an iOS or Android smartphone, Apple\n"
-"and Google track, collect and analyze your location\n"
-"without telling you or giving you a choice"
+"Если у вас есть смартфон на iOS или Android, Apple\n"
+"и Google отслеживают, собирают и анализируют ваше положение\n"
+"не сообщая вам и не давая выбора"
 
 # Facebook
 msgid "facebook-title"
-msgstr "Facebook"
+msgstr "facebook"
 
 msgid "facebook-body"
 msgstr "ВЫБИРАЕТ\nЧТО ВАМ\nЧИТАТЬ"
 
 msgid "facebook-footer"
 msgstr ""
-"Facebook selects the contents of your newsfeed\n"
-"to analyze your reactions and confine you to\n"
-"its filter bubble"
+"Facebook выбирает контент в вашей ленте новостей,\n"
+"чтобы анализировать вашу реакцию и ограничивать вас\n"
+"в информационном пузыре"
 
 # Amazon
 msgid "amazon-title"
@@ -67,9 +67,9 @@ msgstr ""
 
 msgid "amazon-footer"
 msgstr ""
-"Analyzed on a sufficient scale, behaviours that\n"
-"might seem trivial can reveal a lot about your\n"
-"personality, your expectations and your peers"
+"При анализе больших выборок, поведение, которое\n"
+"выглядит обычным, может раскрыть многое о вашей\n"
+"личности, ваших ожиданиях и ваших коллегах"
 
 # Microsoft
 msgid "microsoft-title"
@@ -80,6 +80,6 @@ msgstr "ФОРМАТИРУЕТ\nВАШИХ\nДЕТЕЙ"
 
 msgid "microsoft-footer"
 msgstr ""
-"Microsoft is buying its way into schools\n"
-"and universities by striking deals to train\n"
-"teachers and students"
+"Microsoft покупает путь в школы\n"
+"и университеты, заключая сделки по обучению\n"
+"преподавателей и обучающихся"
