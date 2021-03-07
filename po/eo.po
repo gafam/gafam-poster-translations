@@ -4,19 +4,19 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2018-05-13 12:55+0000\n"
-"Last-Translator: The GAFAM tech collective <tech@gafam.info>\n"
+"PO-Revision-Date: 2021-03-08 13:16+0000\n"
+"Last-Translator: phlostically <phlostically@mailinator.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/gafam/"
 "translations/eo/>\n"
 "Language: eo\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Weblate 3.0-dev\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Weblate 4.5.1\n"
 
 # Google
 msgid "google-title"
-msgstr "Google"
+msgstr "Guglo"
 
 msgid "google-body"
 msgstr "FILTRAS\nVIAJN\nPENSOJN"
@@ -25,7 +25,7 @@ msgid "google-footer"
 msgstr ""
 "Guglo filtras siajn serĉajn rezultojn kaj\n"
 "JuTubo-rekomendojn por analizi viajn\n"
-"reagojn kaj ŝlosi vin en ĝia izola veziko"
+"reagojn kaj ŝlosi vin en sia izola veziko"
 
 # Apple
 msgid "apple-title"
