@@ -4,7 +4,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-03-08 13:16+0000\n"
+"PO-Revision-Date: 2021-04-06 19:27+0000\n"
 "Last-Translator: phlostically <phlostically@mailinator.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/gafam/"
 "translations/eo/>\n"
@@ -12,69 +12,83 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Weblate 4.5.1\n"
+"X-Generator: Weblate 4.6-dev\n"
 
 # Google
 msgid "google-title"
-msgstr "Guglo"
+msgstr "Google"
 
 msgid "google-body"
 msgstr "FILTRAS\nVIAJN\nPENSOJN"
 
 msgid "google-footer"
 msgstr ""
-"Guglo filtras siajn serĉajn rezultojn kaj\n"
-"JuTubo-rekomendojn por analizi viajn\n"
-"reagojn kaj ŝlosi vin en sia izola veziko"
+"Google filtras viajn serĉajn rezultojn kaj\n"
+"YouTube-rekomendojn por analizi viajn\n"
+"reagojn kaj ŝlosi vin en sia filtrita veziko"
 
 # Apple
 msgid "apple-title"
 msgstr "Apple"
 
 msgid "apple-body"
-msgstr "SCIAS\nKIE ESTAS\nVIA\nPATRINO"
+msgstr ""
+"SCIAS\n"
+"KIE\n"
+"ESTAS\n"
+"VIA PATRINO"
 
 msgid "apple-footer"
 msgstr ""
-"Se vi havas poŝkomputilon en iOS aŭ Android, ĝi permesas\n"
-"al Apple, Guglo kaj iliaj app-oj registri vian pozicion,\n"
-"sen ĉiam diri vin aŭ lasi vin elekti"
+"Se vi havas poŝtelefonon de iOS aŭ Android, Apple\n"
+"kaj Google spuras, registras kaj analizas vian lokon\n"
+"sekrete, sen via permeso"
 
 # Facebook
 msgid "facebook-title"
 msgstr "facebook"
 
 msgid "facebook-body"
-msgstr "KONTROLAS\nKION VI\nPOVAS\nLEGI"
+msgstr ""
+"ELEKTAS\n"
+"KION VI\n"
+"LEGAS"
 
 msgid "facebook-footer"
 msgstr ""
-"Fejsbuko ordigas la enhavon de via novaĵfluo\n"
-"por analizi viajn reagojn kaj\n"
-"ŝlosi vin en ĝia izola veziko"
+"Facebook elektas la enhavon de via novaĵfluo\n"
+"por analizi viajn reagojn kaj ŝlosi vin en sia\n"
+"filtrita veziko"
 
 # Amazon
 msgid "amazon-title"
 msgstr "amazon"
 
 msgid "amazon-body"
-msgstr "SCIAS\nKION\nDONACOJ\nVI HAVOS"
+msgstr ""
+"SCIAS\n"
+"KIUJN DONACOJN\n"
+"VI\n"
+"RICEVOS"
 
 msgid "amazon-footer"
 msgstr ""
 "La kondutoj, kiuj ŝajnas al vi la plej malgravaj,\n"
 "amase analizitaj, malkaŝas precize vian personecon,\n"
-"viajn esperojn kaj tiujn de viaj intimuloj"
+"viajn esperojn kaj viajn kunulojn"
 
 # Microsoft
 msgid "microsoft-title"
 msgstr "Microsoft"
 
 msgid "microsoft-body"
-msgstr "FORMATAS\nVIAJN\nINFANOJN"
+msgstr ""
+"STRUKTURAS\n"
+"VIAJN\n"
+"INFANOJN"
 
 msgid "microsoft-footer"
 msgstr ""
-"Microsoft aĉetas sian vojon al lernejoj\n"
-"kaj universitatoj per frapado de interkonsentoj\n"
-"por trejni instruistojn kaj studentojn"
+"Microsoft aĉetadas sian vojon en lernejojn\n"
+"kaj universitatojn per kontraktoj por trejni\n"
+"instruistojn kaj lernantojn"
