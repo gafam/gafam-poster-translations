@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: The GAFAM poster campaign translations 2018\n"
 "Report-Msgid-Bugs-To: <tech@gafam.info>\n"
 "POT-Creation-Date: 2018-01-12 03:44+0100\n"
-"PO-Revision-Date: 2021-02-07 22:50+0000\n"
-"Last-Translator: Liu Tao <lyuutau@outlook.com>\n"
+"PO-Revision-Date: 2021-07-21 02:34+0000\n"
+"Last-Translator: Zhou Nan <zhounan@nfschina.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "gafam/translations/zh_Hans/>\n"
 "Language: zh\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.5-dev\n"
+"X-Generator: Weblate 4.7.2-dev\n"
 
 # Google
 msgid "google-title"
@@ -45,11 +45,10 @@ msgstr ""
 "正在\n"
 "哪里"
 
-#, fuzzy
 msgid "apple-footer"
 msgstr ""
 "如果你有一部iOS或Android智能手机，Apple\n"
-"和谷歌跟踪、收集和分析您的位置。\n"
+"和谷歌会跟踪、收集和分析您的位置。\n"
 "不告诉你，也不给你选择"
 
 # Facebook
