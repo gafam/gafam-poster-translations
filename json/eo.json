@@ -1,17 +1,17 @@
 {
     "google-title": "Google",
     "google-body": "FILTRAS\nVIAJN\nPENSOJN",
-    "google-footer": "Guglo filtras siajn serĉajn rezultojn kaj\nJuTubo-rekomendojn por analizi viajn\nreagojn kaj ŝlosi vin en ĝia izola veziko",
+    "google-footer": "Google filtras viajn serĉajn rezultojn kaj\nYouTube-rekomendojn por analizi viajn\nreagojn kaj ŝlosi vin en sia filtrita veziko",
     "apple-title": "Apple",
-    "apple-body": "SCIAS\nKIE ESTAS\nVIA\nPATRINO",
-    "apple-footer": "Se vi havas poŝkomputilon en iOS aŭ Android, ĝi permesas\nal Apple, Guglo kaj iliaj app-oj registri vian pozicion,\nsen ĉiam diri vin aŭ lasi vin elekti",
+    "apple-body": "SCIAS\nKIE\nESTAS\nVIA PATRINO",
+    "apple-footer": "Se vi havas poŝtelefonon de iOS aŭ Android, Apple\nkaj Google spuras, registras kaj analizas vian lokon\nsekrete, sen via permeso",
     "facebook-title": "facebook",
-    "facebook-body": "KONTROLAS\nKION VI\nPOVAS\nLEGI",
-    "facebook-footer": "Fejsbuko ordigas la enhavon de via novaĵfluo\npor analizi viajn reagojn kaj\nŝlosi vin en ĝia izola veziko",
+    "facebook-body": "ELEKTAS\nKION VI\nLEGAS",
+    "facebook-footer": "Facebook elektas la enhavon de via novaĵfluo\npor analizi viajn reagojn kaj ŝlosi vin en sia\nfiltrita veziko",
     "amazon-title": "amazon",
-    "amazon-body": "SCIAS\nKION\nDONACOJ\nVI HAVOS",
-    "amazon-footer": "La kondutoj, kiuj ŝajnas al vi la plej malgravaj,\namase analizitaj, malkaŝas precize vian personecon,\nviajn esperojn kaj tiujn de viaj intimuloj",
+    "amazon-body": "SCIAS\nKIUJN DONACOJN\nVI\nRICEVOS",
+    "amazon-footer": "La kondutoj, kiuj ŝajnas al vi la plej malgravaj,\namase analizitaj, malkaŝas precize vian personecon,\nviajn esperojn kaj viajn kunulojn",
     "microsoft-title": "Microsoft",
-    "microsoft-body": "FORMATAS\nVIAJN\nINFANOJN",
-    "microsoft-footer": "Microsoft aĉetas sian vojon al lernejoj\nkaj universitatoj per frapado de interkonsentoj\npor trejni instruistojn kaj studentojn"
+    "microsoft-body": "STRUKTURAS\nVIAJN\nINFANOJN",
+    "microsoft-footer": "Microsoft aĉetadas sian vojon en lernejojn\nkaj universitatojn per kontraktoj por trejni\ninstruistojn kaj lernantojn"
 }

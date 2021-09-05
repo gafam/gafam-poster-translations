@@ -1,17 +1,17 @@
 {
     "google-title": "Google",
     "google-body": "ФИЛЬТРУЕТ\nВАШИ\nМЫСЛИ",
-    "google-footer": "Google filters your search results and YouTube\nrecommendations to analyze your reactions\nand confine you to its filter bubble",
+    "google-footer": "Google фильтрует результаты поиска и рекомендации YouTube,\nчтобы анализировать вашу реакцию\nи ограничивать вас в информационном пузыре",
     "apple-title": "Apple",
     "apple-body": "ЗНАЕТ\nГДЕ ВАША\nМАМА\nСЕЙЧАС",
-    "apple-footer": "If you have an iOS or Android smartphone, Apple\nand Google track, collect and analyze your location\nwithout telling you or giving you a choice",
-    "facebook-title": "Facebook",
+    "apple-footer": "Если у вас есть смартфон на iOS или Android, Apple\nи Google отслеживают, собирают и анализируют ваше положение\nне сообщая вам и не давая выбора",
+    "facebook-title": "facebook",
     "facebook-body": "ВЫБИРАЕТ\nЧТО ВАМ\nЧИТАТЬ",
-    "facebook-footer": "Facebook selects the contents of your newsfeed\nto analyze your reactions and confine you to\nits filter bubble",
+    "facebook-footer": "Facebook выбирает контент в вашей ленте новостей,\nчтобы анализировать вашу реакцию и ограничивать вас\nв информационном пузыре",
     "amazon-title": "amazon",
-    "amazon-body": "ЗНАЕТ\nКАКИЕ ПОДАРКИ\nВЫ ПОЛУЧАЕТЕ",
-    "amazon-footer": "Analyzed on a sufficient scale, behaviours that\nmight seem trivial can reveal a lot about your\npersonality, your expectations and your peers",
+    "amazon-body": "ЗНАЕТ\nКАКИЕ ПОДАРКИ\nВЫ\nПОЛУЧАЕТЕ",
+    "amazon-footer": "При анализе больших выборок, поведение, которое\nвыглядит обычным, может раскрыть многое о вашей\nличности, ваших ожиданиях и ваших коллегах",
     "microsoft-title": "Microsoft",
     "microsoft-body": "ФОРМАТИРУЕТ\nВАШИХ\nДЕТЕЙ",
-    "microsoft-footer": "Microsoft is buying its way into schools\nand universities by striking deals to train\nteachers and students"
+    "microsoft-footer": "Microsoft покупает путь в школы\nи университеты, заключая сделки по обучению\nпреподавателей и обучающихся"
 }
