@@ -6,6 +6,19 @@ gafam-poster-translations CHANGES
 in progress
 ===========
 
+2021-09-05 0.10.0
+=================
+- Add translation into Finnish. Thanks, Jeannette!
+- Add translation into Hebrew. Thanks, Yaron!
+- Update translation into Esperanto. Thanks, @phlostically!
+- Update translation into Hungarian. Thanks, Olivér!
+- Update translation into Italian. Thanks, Jeannette!
+- Update translation into Polish. Thanks, @harcesz!
+- Update translation into Russian. Thanks, Mira, Daniel and Mihail!
+- Update translation into Swedish. Thanks, Johan and Luna!
+- Update translation into Turkish. Thanks, Oğuz!
+- Update translation into Chinese. Thanks, Liu and Zhou!
+
 2020-02-18 0.9.0
 ================
 - Update translation into French and Italian. Thanks, Swann!
