@@ -23,15 +23,17 @@ gettext-to-json:
 # bumpversion
 # ===========
 
-$(eval venvpath     := .venv2)
-$(eval bumpversion  := $(venvpath)/bin/bumpversion)
+$(eval venvpath     := .venv)
+$(eval pip          := $(venvpath)/bin/pip)
+$(eval python       := $(venvpath)/bin/python)
+$(eval bump2version := $(venvpath)/bin/bump2version)
 
 virtualenv:
-	@test -e $(venvpath)/bin/python || `command -v virtualenv` --python=`command -v python` --no-site-packages $(venvpath)
+	@test -e $(python) || python3 -m venv --system-site-packages $(venvpath)
 
 bumpversion: virtualenv
-	@$(venvpath)/bin/pip install bumpversion
-	$(bumpversion) $(bump)
+	@$(venvpath)/bin/pip install bump2version
+	$(bump2version) $(bump)
 
 
 # =======
