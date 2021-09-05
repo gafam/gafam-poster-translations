@@ -25,6 +25,6 @@
         "i18next-po-to-json": "i18next-conv -l $I18NEXT_LANG -s po/$I18NEXT_LANG.po -t json/$I18NEXT_LANG.json"
     },
     "devDependencies": {
-        "i18next-conv": "^6.0.0"
+        "i18next-conv": "^10.2.0"
     }
 }
