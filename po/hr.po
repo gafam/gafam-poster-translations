@@ -97,6 +97,6 @@ msgstr ""
 
 msgid "microsoft-footer"
 msgstr ""
-"Microsoft su uvlači u škole i sveučilišta\n"
+"Microsoft se uvlači u škole i sveučilišta\n"
 "sklapajući s njima ugovore, kako bi navikli\n"
 "učitelje i učenike koristiti njihove proizvode"
