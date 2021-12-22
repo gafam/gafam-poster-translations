@@ -1,0 +1,82 @@
+# The GAFAM poster campaign translations from
+# the GAFAM tech collective <tech@gafam.info>, 2018.
+# This file is in the public domain (CC0).
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: <tech@gafam.info>\n"
+"POT-Creation-Date: 2021-11-22 10:35+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Md. Touhidur Rahman <latereply.gafam.poster.translation.bn@touhidur.xyz>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+# Google
+msgid "google-title"
+msgstr "গুগল"
+
+msgid "google-body"
+msgstr "আপনার\nচিন্তাভাবনা\nবাছাই করে"
+
+msgid "google-footer"
+msgstr ""
+"গুগল সার্চ রেলাল্ট আর ইউটিউব রিকমেন্ডেশন বাছাই করতে,\n"
+"আপনার প্রতিক্রিয়া বিশ্লেষণ করে,\n"
+"আর আপনাকে তার বাছাইকৃত জগতে সীমাবদ্ধ করে\n"
+
+# Apple
+msgid "apple-title"
+msgstr "অ্যপল"
+
+msgid "apple-body"
+msgstr "জানে কোথায় আপনার\nমা\nআছেন"
+
+msgid "apple-footer"
+msgstr ""
+"আপনার যদি একটি আইওএস বা অ্যান্ড্রয়েড চালিত স্মার্টফোন থাকে, তাহলে\n"
+"অ্যাপল আর গুগল আপনার অবস্থান ট্র্যাক, বিশ্লেষণ এবং সংগ্রহ করে\n"
+"আপনাকে জানানো ছাড়াই বা অনুমতি না নিয়েই\n"
+
+# Facebook
+msgid "facebook-title"
+msgstr "ফেসবুক"
+
+msgid "facebook-body"
+msgstr "আপনি কী\nপড়বেন\nতা নির্ধারণ করে"
+
+msgid "facebook-footer"
+msgstr ""
+"ফেসবুক আপনার প্রতিক্রিয়া বিশ্লেষণ করার জন্য\n"
+"আপনার নিউজফিডের বিষয়বস্তু নির্ধারণ করে\n"
+"আর আপনাকে তার নির্ধারিত জগতে সীমাবদ্ধ করে\n"
+
+# Amazon
+msgid "amazon-title"
+msgstr "আমাজন"
+
+msgid "amazon-body"
+msgstr "জানে আপনি কোন\nউপহার\nপাবেন"
+
+msgid "amazon-footer"
+msgstr ""
+"যথেষ্ট পরিমাণে বিশ্লেষণ করা হলে, আপনার আচরণ যেগুলো\n"
+"আপনি তুচ্ছ মনে করেন, অনেককিছুই বলে দিতে পারে আপনার\n"
+"ব্যাক্তিত্ব, আপনার প্রত্যাশা এবং আপনার আপনজন সম্পর্কে\n"
+
+# Microsoft
+msgid "microsoft-title"
+msgstr "মাইক্রোসফট"
+
+msgid "microsoft-body"
+msgstr "আপনার সন্তানদের\nফরম্যাট\nকরে"
+
+msgid "microsoft-footer"
+msgstr ""
+"মাইক্রোসফট স্কুল আর বিশ্ববিদ্যালয় গুলোতে পর্যায়\n"
+"ঝড়ের গতিতেই ছাত্র আর শিক্ষকদের প্রশিক্ষণ দেয়ার\n"
+"চুক্তি বাগিয়ে নিচ্ছে\n"
