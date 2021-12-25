@@ -5,6 +5,7 @@ gafam-poster-translations CHANGES
 
 in progress
 ===========
+- Upgrade to i18next-conv==11.0.2
 
 2021-12-25 0.11.1
 =================
