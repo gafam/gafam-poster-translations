@@ -6,6 +6,10 @@ gafam-poster-translations CHANGES
 in progress
 ===========
 
+2021-12-25 0.11.1
+=================
+- Render PO to JSON
+
 2021-12-25 0.11.0
 =================
 - Upgrade to i18next-conv==10.2.0
