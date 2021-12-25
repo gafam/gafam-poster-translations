@@ -6,12 +6,20 @@ gafam-poster-translations CHANGES
 in progress
 ===========
 
+2021-12-25 0.11.0
+=================
+- Upgrade to i18next-conv==10.2.0
+- Update Makefile: Use Python3, Use bump2version
+- Update translation into Croatian. Thanks, @aresstarcic!
+- Add translation into Bangla. Thanks, @touhidurrr!
+- Update translation into Telugu. Thanks, @tuxnani!
+
 2021-09-05 0.10.0
 =================
 - Add translation into Finnish. Thanks, Jeannette!
 - Add translation into Hebrew. Thanks, Yaron!
 - Update translation into Esperanto. Thanks, @phlostically!
-- Update translation into Hungarian. Thanks, Olivér!
+- Update translation into Croatian. Thanks, Milo!
 - Update translation into Italian. Thanks, Jeannette!
 - Update translation into Polish. Thanks, @harcesz!
 - Update translation into Russian. Thanks, Mira, Daniel and Mihail!
