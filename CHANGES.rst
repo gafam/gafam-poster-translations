@@ -5,7 +5,11 @@ gafam-poster-translations CHANGES
 
 in progress
 ===========
+
+2021-12-28 0.11.2
+=================
 - Upgrade to i18next-conv==11.0.2
+- Fix newlines within translation into Bangla
 
 2021-12-25 0.11.1
 =================
