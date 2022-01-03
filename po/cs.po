@@ -7,61 +7,95 @@ msgstr ""
 "Project-Id-Version: The GAFAM poster campaign translations 2018\n"
 "Report-Msgid-Bugs-To: <tech@gafam.info>\n"
 "POT-Creation-Date: 2018-01-12 03:44+0100\n"
-"PO-Revision-Date: 2018-01-12 03:44+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-01-05 16:52+0000\n"
+"Last-Translator: Jiří Podhorecký <j.podhorecky@volny.cz>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/gafam/translations/"
+"cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 4.10.1\n"
 
 # Google
 msgid "google-title"
-msgstr ""
+msgstr "Google"
 
 msgid "google-body"
 msgstr ""
+"FILTRUJE\n"
+"VAŠE\n"
+"MYŠLENKY"
 
 msgid "google-footer"
 msgstr ""
+"Google filtruje výsledky vyhledávání a doporučení \n"
+"YouTube, aby analyzoval vaše reakce \n"
+"a omezil vás na svou filtrační bublinu"
 
 # Apple
 msgid "apple-title"
-msgstr ""
+msgstr "Apple"
 
 msgid "apple-body"
 msgstr ""
+"VÍ\n"
+"KDE JE \n"
+"VAŠE\n"
+"MÁMA"
 
 msgid "apple-footer"
 msgstr ""
+"Pokud máte chytrý telefon se systémem iOS nebo Android, \n"
+"Apple a Google sledují, shromažďují a analyzují vaši polohu, \n"
+"aniž by vás o tom informovali, nebo vám dali na výběr"
 
 # Facebook
 msgid "facebook-title"
-msgstr ""
+msgstr "facebook"
 
 msgid "facebook-body"
 msgstr ""
+"VYBÍRÁ\n"
+"CO MÁTE\n"
+"ČÍST"
 
 msgid "facebook-footer"
 msgstr ""
+"Facebook vybírá obsah vašeho newsfeedu, \n"
+"aby analyzoval vaše reakce \n"
+"a omezil vás na svou filtrační bublinu"
 
 # Amazon
 msgid "amazon-title"
-msgstr ""
+msgstr "amazon"
 
 msgid "amazon-body"
 msgstr ""
+"VÍ, \n"
+"JAKÉ \n"
+"DÁRKY \n"
+"DOSTÁVÁTE"
 
 msgid "amazon-footer"
 msgstr ""
+"Chování, které se může zdát triviální, může při \n"
+"dostatečné analýze prozradit mnoho o vaší osobnosti, \n"
+"vašich očekáváních a vašich vrstevnících"
 
 # Microsoft
 msgid "microsoft-title"
-msgstr ""
+msgstr "Microsoft"
 
 msgid "microsoft-body"
 msgstr ""
+"FORMUJE\n"
+"VAŠE\n"
+"DĚTI"
 
 msgid "microsoft-footer"
 msgstr ""
+"Microsoft si kupuje cestu do škol \n"
+"a na univerzity a uzavírá dohody \n"
+"o školení učitelů a studentů"
