@@ -7,61 +7,96 @@ msgstr ""
 "Project-Id-Version: The GAFAM poster campaign translations 2018\n"
 "Report-Msgid-Bugs-To: <tech@gafam.info>\n"
 "POT-Creation-Date: 2018-01-12 03:44+0100\n"
-"PO-Revision-Date: 2018-01-12 03:44+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-01-11 22:31+0000\n"
+"Last-Translator: Juanro49 <juanrobertogarciasanchez@gmail.com>\n"
+"Language-Team: Extremaduran <https://hosted.weblate.org/projects/gafam/"
+"translations/ext/>\n"
 "Language: ext\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.10.1\n"
 
 # Google
 msgid "google-title"
-msgstr ""
+msgstr "Google"
 
 msgid "google-body"
 msgstr ""
+"CITRA\n"
+"TUS\n"
+"PENSAMIENTUS"
 
 msgid "google-footer"
 msgstr ""
+"Google citra tus resultaus de busca i\n"
+"recomendaciones de Youtube pa analizar\n"
+"tus raciones i encerrar-ti en su pomporita de citrus"
 
 # Apple
 msgid "apple-title"
-msgstr ""
+msgstr "Apple"
 
 msgid "apple-body"
 msgstr ""
+"SABI\n"
+"ANDI\n"
+"ESTÁ\n"
+"TU MAIRI"
 
 msgid "apple-footer"
 msgstr ""
+"Si tienis un mobi IOS o Android, Apple i Google\n"
+"monitorizan, recopilan, i analizan tu ubicamientu\n"
+"sin dizir-ti i sin ofrecer-ti la possibiliá de elegir"
 
 # Facebook
 msgid "facebook-title"
-msgstr ""
+msgstr "Facebook"
 
 msgid "facebook-body"
 msgstr ""
+"ELIGE\n"
+"LO QUE\n"
+"PUEIS LEER"
 
 msgid "facebook-footer"
 msgstr ""
+"Facebook escoge las últimas informacionis\n"
+"para analizar tus racionis y encerrar-ti en\n"
+"su pomporita de citrus"
 
 # Amazon
 msgid "amazon-title"
-msgstr ""
+msgstr "Amazon"
 
 msgid "amazon-body"
 msgstr ""
+"SABI QUE\n"
+"REGALUS\n"
+"RECEBIRÁS"
 
 msgid "amazon-footer"
 msgstr ""
+"Los comportamientus que te parecen mas trivialis\n"
+"analizaus en masa, revelan de forma mu essata\n"
+"tu personalidá, tus espetativas y tus amistais"
 
 # Microsoft
 msgid "microsoft-title"
-msgstr ""
+msgstr "Microsoft"
 
+#, fuzzy
 msgid "microsoft-body"
 msgstr ""
+"FORMATEA\n"
+"A TUS\n"
+"IJUS"
 
+#, fuzzy
 msgid "microsoft-footer"
 msgstr ""
+"Microsoft paga campañas de promovición en colegius i\n"
+"nuversidás con ofertas porbaxu del mercau\n"
+"pa adestrar a maestrus i alunus"
