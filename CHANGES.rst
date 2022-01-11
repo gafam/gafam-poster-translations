@@ -6,6 +6,11 @@ gafam-poster-translations CHANGES
 in progress
 ===========
 
+2022-01-11 0.12.0
+=================
+- Add translation into Czech. Thanks, @trendspotter!
+- Add translation into Extremaduran. Thanks, @juanro49!
+
 2021-12-28 0.11.2
 =================
 - Upgrade to i18next-conv==11.0.2
