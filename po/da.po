@@ -64,8 +64,9 @@ msgstr "VED\nHVILKE\nGAVER\nDU FÅR"
 
 msgid "amazon-footer"
 msgstr ""
-"Analyseret på en stor nok skala kan en ellers triviel opførsel fortælle\n"
-"meget om din personlighed, dine forventninger og dine medmennesker"
+"Analyseret på en stor nok skala kan en ellers\n"
+"triviel opførsel fortælle meget om din personlighed,\n"
+"dine forventninger og dine medmennesker"
 
 # Microsoft
 msgid "microsoft-title"
