@@ -6,6 +6,7 @@ gafam-poster-translations CHANGES
 in progress
 ===========
 - Adjust newlines within translation into Danish.
+- Adjust newlines within translation into Norwegian Bokmål.
 
 2022-01-11 0.12.0
 =================

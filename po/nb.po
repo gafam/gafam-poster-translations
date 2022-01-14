@@ -47,10 +47,9 @@ msgstr ""
 
 msgid "apple-footer"
 msgstr ""
-"Hvis du har en iOS- eller Android-telefon, vil\n"
-"henholdsvis Apple og Google spore, samle inn og\n"
-"analysere plasseringen din, uten å fortelle\n"
-"deg om det, eller gi deg valget"
+"Hvis du har en iOS- eller Android-telefon, vil henholdsvis\n"
+"Apple og Google spore, samle inn og analysere plasseringen\n"
+"din, uten å fortelle deg om det, eller gi deg valget"
 
 # Facebook
 msgid "facebook-title"
@@ -64,8 +63,8 @@ msgstr ""
 
 msgid "facebook-footer"
 msgstr ""
-"Facebook velger innholdet i din nyhetsstrøm\n"
-"for så å analysere dine reaksjoner og sperre deg\n"
+"Facebook velger innholdet i din nyhetsstrøm for\n"
+"så å analysere dine reaksjoner og sperre deg\n"
 "inne i filterboblen sin"
 
 # Amazon
@@ -81,9 +80,8 @@ msgstr ""
 
 msgid "amazon-footer"
 msgstr ""
-"Analysert i stort nok omfang kan\n"
-"tilsynelatende triviell oppførsel\n"
-"fortelle mye om din personlighet,\n"
+"Analysert i stort nok omfang kan tilsynelatende\n"
+"triviell oppførsel fortelle mye om din personlighet,\n"
 "forventninger og dem du omgås"
 
 # Microsoft
