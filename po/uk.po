@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: The GAFAM poster campaign translations 2018\n"
 "Report-Msgid-Bugs-To: <tech@gafam.info>\n"
 "POT-Creation-Date: 2018-01-12 03:44+0100\n"
-"PO-Revision-Date: 2022-04-19 04:11+0000\n"
+"PO-Revision-Date: 2022-04-20 05:11+0000\n"
 "Last-Translator: Tymofii Lytvynenko <till.svit@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/gafam/"
 "translations/uk/>\n"
@@ -31,43 +31,72 @@ msgstr ""
 
 msgid "google-footer"
 msgstr ""
+"Google фільтрує результати пошуку та рекомендації YouTube,\n"
+" щоб аналізувати вашу реакцію\n"
+" та обмежувати вас в інформаційній бульбашці"
 
 # Apple
 msgid "apple-title"
-msgstr ""
+msgstr "Apple"
 
 msgid "apple-body"
 msgstr ""
+"ЗНАЄ\n"
+"ДЕ ВАША\n"
+"МАМА\n"
+"ЗАРАЗ"
 
 msgid "apple-footer"
 msgstr ""
+"Якщо у вас смартфон iOS або Android, Apple\n"
+"і Google відстежує, збирає та аналізує ваше місцезнаходження\n"
+"не кажучи вам і не даючи вам вибору"
 
 # Facebook
 msgid "facebook-title"
-msgstr ""
+msgstr "facebook"
 
 msgid "facebook-body"
 msgstr ""
+"ОБИРАЄ\n"
+"ЩО ВАМ\n"
+"ЧИТАТИ"
 
 msgid "facebook-footer"
 msgstr ""
+"Facebook добирає вміст вашої стрічки новин\n"
+"щоб проаналізувати ваші реакції обмежуючи вас\n"
+"в інформаційній бульбашці"
 
 # Amazon
 msgid "amazon-title"
-msgstr ""
+msgstr "amazon"
 
 msgid "amazon-body"
 msgstr ""
+"ЗНАЄ\n"
+"ЯКІ ПОДАРУНКИ\n"
+"ВИ\n"
+"ОТРИМУЄТЕ"
 
 msgid "amazon-footer"
 msgstr ""
+"Під час аналізу великих вибірок, поведінка, яка\n"
+"виглядає звичайною, може розкрити багато чого про вашу\n"
+"особистість, ваші очікування та ваших колег"
 
 # Microsoft
 msgid "microsoft-title"
-msgstr ""
+msgstr "Microsoft"
 
 msgid "microsoft-body"
 msgstr ""
+"ВИХОВУЄ\n"
+"ВАШИХ\n"
+"ДІТЕЙ"
 
 msgid "microsoft-footer"
 msgstr ""
+"Microsoft прокладає шлях до шкіл\n"
+"та університетів, укладаючи угоди з навчання\n"
+"викладачів та учнів"
