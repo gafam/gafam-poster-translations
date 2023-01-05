@@ -10,6 +10,7 @@ in progress
 - Adjust newlines and whitespace within translation into Telugu.
 - Adjust newlines within translations into Catalan, Spanish, and Galician.
   Thanks, Maite, @gallegonovato, and @J-Teijeiro.
+- Update translation into Hungarian. Thanks, Gergely.
 
 2022-01-11 0.12.0
 =================
