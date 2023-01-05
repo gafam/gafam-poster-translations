@@ -1,0 +1,90 @@
+# The GAFAM poster campaign translations from
+# the GAFAM tech collective <tech@gafam.info>, 2018.
+# This file is in the public domain (CC0).
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: The GAFAM poster campaign translations 2022-03-19\n"
+"Report-Msgid-Bugs-To: diopon <diopon@mailo.com>\n"
+"POT-Creation-Date: 2022-03-19\n"
+"PO-Revision-Date: 2022-03-19\n"
+"Last-Translator: 2022-03-19\n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+# Google
+msgid "google-title"
+msgstr "Google"
+
+msgid "google-body"
+msgstr "ΦΙΛΤΡΑΡΕΙ\nΤΙΣ\nΣΚΕΨΕΙΣ ΣΟΥ"
+
+msgid "google-footer"
+msgstr ""
+"Η Google φιλτράρει το αποτελέσματα της αναζήτησης σου\n"
+"και τις προτάσεις σου στο YouTube ώστε να αναλύσει τις\n"
+"αντιδράσεις σου, ενσωματώνοντας σε στην φούσκα φίλτρου της"
+
+
+# Apple
+msgid "apple-title"
+msgstr "Apple"
+
+msgid "apple-body"
+msgstr ""
+"ΓΝΩΡΙΖΕΙ\n"
+"ΠΟΥ ΕΙΝΑΙ\n"
+"Η ΜΗΤΕΡΑ\nΣΟΥ"
+
+msgid "apple-footer"
+msgstr ""
+"Αν χρησιμοποιείς ένα κινητό iOS ή Android, τότε η Apple και\n"
+"Google σε παρακολουθούν, συλλέγουν και αναλύουν την τοποθεσία\n"
+"σου, χωρίς να σε ενημερώσουν ή να σου δώσουν άλλη επιλογή"
+
+
+# Facebook
+msgid "facebook-title"
+msgstr "facebook"
+
+msgid "facebook-body"
+msgstr "ΕΠΙΛΕΓΕΙ\nΤΙ\nΘΑ ΔΙΑΒΑΣΕΙΣ"
+
+msgid "facebook-footer"
+msgstr ""
+"Το Facebook επιλέγει το περιεχόμενο της ροής ειδήσεων,\n"
+"για να αναλύσει τις αντιδράσεις σου, και να σε\n" 
+"ενσωματώσει σε μία φούσκα φίλτρου"
+
+# Amazon
+msgid "amazon-title"
+msgstr "amazon"
+
+msgid "amazon-body"
+msgstr ""
+"ΓΝΩΡΙΖΕΙ\n"
+"ΠΟΙΑ ΔΩΡΑ\n"
+"ΘΑ ΠΑΡΕΙΣ"
+
+msgid "amazon-footer"
+msgstr ""
+"Αναλύοντας σε επαρκή κλίμακα συμπεριφορές, που μπορεί να\n"
+"φαίνονται ασήμαντες, μπορεί να αποκαλύψουν πολλά για\n"
+"την προσωπικότητα, τις προσδοκίες και τους φίλους σου"
+
+# Microsoft
+msgid "microsoft-title"
+msgstr "Microsoft"
+
+msgid "microsoft-body"
+msgstr "ΠΛΑΘΕΙ\nΤΑ\nΠΑΙΔΙΑ ΣΟΥ"
+
+msgid "microsoft-footer"
+msgstr ""
+"Η Microsoft αγοράζει με σημαντικές δαπάνες πρόσβαση σε\n"
+"σχολεία και πανεπιστήμια, κάνοντας συμφωνίες για την\n" 
+"εκπαίδευση καθηγητών και μαθητών"

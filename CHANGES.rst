@@ -12,6 +12,7 @@ in progress
   Thanks, Maite, @gallegonovato, and @J-Teijeiro.
 - Update translation into Hungarian. Thanks, Gergely.
 - Add translation into Ukrainian. Thanks, Tymofii.
+- Add translation into Modern Greek. Thanks, @diopon.
 
 2022-01-11 0.12.0
 =================
