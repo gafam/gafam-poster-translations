@@ -5,6 +5,9 @@ gafam-poster-translations CHANGES
 
 in progress
 ===========
+
+2023-01-05 0.13.0
+=================
 - Adjust newlines within translation into Danish.
 - Adjust newlines within translation into Norwegian Bokmål.
 - Adjust newlines and whitespace within translation into Telugu.
