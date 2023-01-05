@@ -11,6 +11,7 @@ in progress
 - Adjust newlines within translations into Catalan, Spanish, and Galician.
   Thanks, Maite, @gallegonovato, and @J-Teijeiro.
 - Update translation into Hungarian. Thanks, Gergely.
+- Add translation into Ukrainian. Thanks, Tymofii.
 
 2022-01-11 0.12.0
 =================
