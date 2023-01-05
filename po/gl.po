@@ -41,7 +41,7 @@ msgstr "Apple"
 msgid "apple-body"
 msgstr ""
 "SABE\n"
-"ONDE \n"
+"ONDE\n"
 "ESTÁ\n"
 "TÚA NAI"
 

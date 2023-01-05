@@ -8,6 +8,8 @@ in progress
 - Adjust newlines within translation into Danish.
 - Adjust newlines within translation into Norwegian Bokmål.
 - Adjust newlines and whitespace within translation into Telugu.
+- Adjust newlines within translations into Catalan, Spanish, and Galician.
+  Thanks, Maite, @gallegonovato, and @J-Teijeiro.
 
 2022-01-11 0.12.0
 =================
