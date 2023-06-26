@@ -7,61 +7,95 @@ msgstr ""
 "Project-Id-Version: The GAFAM poster campaign translations 2018\n"
 "Report-Msgid-Bugs-To: <tech@gafam.info>\n"
 "POT-Creation-Date: 2018-01-12 03:44+0100\n"
-"PO-Revision-Date: 2018-01-12 03:44+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-06-27 15:48+0000\n"
+"Last-Translator: PH-68 <f3c7@proton.me>\n"
+"Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
+"gafam/translations/zh_Hant/>\n"
 "Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.18.1\n"
 
 # Google
 msgid "google-title"
-msgstr ""
+msgstr "Google"
 
 msgid "google-body"
 msgstr ""
+"篩選\n"
+"你的\n"
+"思想"
 
 msgid "google-footer"
 msgstr ""
+"Google 會知道你所有的搜尋結果和 YouTube\n"
+"推薦來分析你的反應\n"
+"接著把你禁錮在它篩選後的結果裡"
 
 # Apple
 msgid "apple-title"
-msgstr ""
+msgstr "Apple"
 
 msgid "apple-body"
 msgstr ""
+"知道\n"
+"你的媽媽\n"
+"正在\n"
+"哪裡"
 
 msgid "apple-footer"
 msgstr ""
+"如果你有一台 iOS 或 Android 的智慧型手機，\n"
+"Apple 和 Google 會跟蹤、收集和分析你的位置。\n"
+"不告訴你，也不給你選擇"
 
 # Facebook
 msgid "facebook-title"
-msgstr ""
+msgstr "facebook"
 
 msgid "facebook-body"
 msgstr ""
+"選擇\n"
+"你\n"
+"看到什麼"
 
 msgid "facebook-footer"
 msgstr ""
+"Facebook 會決定你動態消息的内容\n"
+"根據你的反應來判斷\n"
+"它需要過濾的內容"
 
 # Amazon
 msgid "amazon-title"
-msgstr ""
+msgstr "amazon"
 
 msgid "amazon-body"
 msgstr ""
+"知道\n"
+"你\n"
+"會收到\n"
+"什麼禮物"
 
 msgid "amazon-footer"
 msgstr ""
+"經過大量分析之後\n"
+"看似微不足道的行為但將揭露許多\n"
+"性格、偏好和朋友"
 
 # Microsoft
 msgid "microsoft-title"
-msgstr ""
+msgstr "Microsoft"
 
 msgid "microsoft-body"
 msgstr ""
+"將會控制\n"
+"你的\n"
+"孩子"
 
 msgid "microsoft-footer"
 msgstr ""
+"微軟正在慢慢的進入校園和大學\n"
+"以低價來培訓\n"
+"學生和老師"
