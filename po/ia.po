@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: The GAFAM poster campaign translations 2018\n"
 "Report-Msgid-Bugs-To: <tech@gafam.info>\n"
 "POT-Creation-Date: 2018-01-12 03:44+0100\n"
-"PO-Revision-Date: 2024-01-24 22:01+0000\n"
+"PO-Revision-Date: 2024-01-26 04:01+0000\n"
 "Last-Translator: Software In Interlingua <softinterlingua@gmail.com>\n"
 "Language-Team: Interlingua <https://hosted.weblate.org/projects/gafam/"
 "translations/ia/>\n"
@@ -78,8 +78,12 @@ msgstr ""
 "TU\n"
 "OBTENERA"
 
+#, fuzzy
 msgid "amazon-footer"
 msgstr ""
+"Analyzed on a sufficient scale, le comportamentos que\n"
+"pare trivial pote revelar multo super tu\n"
+"personality, your expectations and your peers"
 
 # Microsoft
 msgid "microsoft-title"
