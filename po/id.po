@@ -7,61 +7,94 @@ msgstr ""
 "Project-Id-Version: The GAFAM poster campaign translations 2018\n"
 "Report-Msgid-Bugs-To: <tech@gafam.info>\n"
 "POT-Creation-Date: 2018-01-12 03:44+0100\n"
-"PO-Revision-Date: 2018-01-12 03:44+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-10-27 06:00+0000\n"
+"Last-Translator: Linerly <linerly@proton.me>\n"
+"Language-Team: Indonesian <https://hosted.weblate.org/projects/gafam/"
+"translations/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.8.2-dev\n"
 
 # Google
 msgid "google-title"
-msgstr ""
+msgstr "Google"
 
 msgid "google-body"
 msgstr ""
+"MENYARING\n"
+"PIKIRAN\n"
+"ANDA"
 
 msgid "google-footer"
 msgstr ""
+"Google menyaring hasil pencarian dan rekomendasi YouTube Anda\n"
+"untuk menganalisis reaksi Anda\n"
+"dan membatasi Anda dalam gelembung saringannya"
 
 # Apple
 msgid "apple-title"
-msgstr ""
+msgstr "Apple"
 
 msgid "apple-body"
 msgstr ""
+"TAHU\n"
+"DI MANAKAH\n"
+"IBU ANDA"
 
 msgid "apple-footer"
 msgstr ""
+"Jika Anda memiliki ponsel iOS atau Android, Apple\n"
+"dan Google melacak, mengumpulkan, dan menganalisis lokasi Anda\n"
+"tanpa memberi tahu atau memberi pilihan"
 
 # Facebook
 msgid "facebook-title"
-msgstr ""
+msgstr "facebook"
 
 msgid "facebook-body"
 msgstr ""
+"MEMILIH\n"
+"APA YANG\n"
+"ANDA BACA"
 
 msgid "facebook-footer"
 msgstr ""
+"Facebook memilih konten umpan berita Anda\n"
+"untuk menganalisis reaksi Anda dan membatasi\n"
+"Anda dalam gelembung saringannya"
 
 # Amazon
 msgid "amazon-title"
-msgstr ""
+msgstr "amazon"
 
 msgid "amazon-body"
 msgstr ""
+"TAHU\n"
+"KADO APA\n"
+"YANG ANDA\n"
+"DAPATKAN"
 
 msgid "amazon-footer"
 msgstr ""
+"Dianalisis pada skala memadai, perilaku\n"
+"yang mungkin dianggap remeh dapat\n"
+"menunjukkan kepribadian, harapan,\n"
+"dan orang-orang sekitar Anda"
 
 # Microsoft
 msgid "microsoft-title"
-msgstr ""
+msgstr "Microsoft"
 
 msgid "microsoft-body"
 msgstr ""
+"MEMFORMAT\n"
+"ANAK-ANAK\n"
+"ANDA"
 
 msgid "microsoft-footer"
 msgstr ""
+"Microsoft membeli jalan masuk ke sekolah\n"
+"dan universitas dengan membuat kesepakatan untuk melatih guru dan siswa"
