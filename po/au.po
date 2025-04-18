@@ -13,55 +13,71 @@ msgstr ""
 "Language: au\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.4-dev\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
 # Google
 msgid "google-title"
-msgstr ""
+msgstr "Google"
 
 msgid "google-body"
-msgstr ""
+msgstr "FILTERS\nYOUR\nTHOUGHTS"
 
 msgid "google-footer"
 msgstr ""
+"Google filters your search results and YouTube\n"
+"recommendations to analyse your reactions\n"
+"and confine you to its filter bubble"
 
 # Apple
 msgid "apple-title"
-msgstr ""
+msgstr "Apple"
 
 msgid "apple-body"
-msgstr ""
+msgstr "KNOWS\nWHERE YOUR\nMUM\nIS"
 
 msgid "apple-footer"
 msgstr ""
+"If you have an iOS or Android smartphone, Apple\n"
+"and Google track, collect and analyse your location\n"
+"without telling you or giving you a choice"
 
 # Facebook
 msgid "facebook-title"
-msgstr ""
+msgstr "facebook"
 
 msgid "facebook-body"
-msgstr ""
+msgstr "CHOOSES\nWHAT YOU\nREAD"
 
 msgid "facebook-footer"
 msgstr ""
+"Facebook selects the contents of your newsfeed\n"
+"to analyse your reactions and confine you to\n"
+"its filter bubble"
 
 # Amazon
 msgid "amazon-title"
-msgstr ""
+msgstr "amazon"
 
 msgid "amazon-body"
-msgstr ""
+msgstr "KNOWS\nWHAT PRESENTS\nYOU\nARE GETTING"
 
 msgid "amazon-footer"
 msgstr ""
+"Analysed on a sufficient scale, behaviours that\n"
+"might seem trivial can reveal a lot about your\n"
+"personality, your expectations and your peers"
 
 # Microsoft
 msgid "microsoft-title"
-msgstr ""
+msgstr "Microsoft"
 
 msgid "microsoft-body"
-msgstr ""
+msgstr "FORMATS\nYOUR\nKIDS"
 
 msgid "microsoft-footer"
 msgstr ""
+"Microsoft is buying its way into schools\n"
+"and universities by striking deals to train\n"
+"teachers and students"
