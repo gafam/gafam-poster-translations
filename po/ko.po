@@ -7,61 +7,95 @@ msgstr ""
 "Project-Id-Version: The GAFAM poster campaign translations 2018\n"
 "Report-Msgid-Bugs-To: <tech@gafam.info>\n"
 "POT-Creation-Date: 2018-01-12 03:44+0100\n"
-"PO-Revision-Date: 2018-01-12 03:44+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-05-04 15:09+0000\n"
+"Last-Translator: Yeomoon <kimyeomoon@gmail.com>\n"
+"Language-Team: Korean <https://hosted.weblate.org/projects/gafam/"
+"translations/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 # Google
 msgid "google-title"
-msgstr ""
+msgstr "Google은"
 
 msgid "google-body"
 msgstr ""
+"당신의\n"
+"생각을\n"
+"필터링합니다"
 
 msgid "google-footer"
 msgstr ""
+"Google은 검색 결과와 YouTube 추천을 필터링하여\n"
+"당신의 반응을 분석하고\n"
+"필터 버블 안에 가두어 둡니다"
 
 # Apple
 msgid "apple-title"
-msgstr ""
+msgstr "Apple은"
 
 msgid "apple-body"
 msgstr ""
+"당신의\n"
+"어머니가\n"
+"어디 있는지\n"
+"압니다"
 
 msgid "apple-footer"
 msgstr ""
+"iOS 또는 Android 스마트폰을 사용하고 있다면,\n"
+"Apple과 Google은 당신에게 알리거나 선택권을 주지 않은 채\n"
+"당신의 위치를 추적, 수집, 분석합니다"
 
 # Facebook
 msgid "facebook-title"
-msgstr ""
+msgstr "facebook은"
 
 msgid "facebook-body"
 msgstr ""
+"당신이\n"
+"읽을 것을\n"
+"선택합니다"
 
 msgid "facebook-footer"
 msgstr ""
+"Facebook은 당신의 뉴스피드 내용을 선별하여\n"
+"당신의 반응을 분석하고\n"
+"필터 버블 안에 가두어 둡니다"
 
 # Amazon
 msgid "amazon-title"
-msgstr ""
+msgstr "amazon은"
 
 msgid "amazon-body"
 msgstr ""
+"당신이\n"
+"어떤 선물을\n"
+"받을지\n"
+"압니다"
 
 msgid "amazon-footer"
 msgstr ""
+"충분한 규모로 분석하면, 사소해 보이는 행동들도\n"
+"당신의 성격, 기대, 그리고 주변 사람들에 대해\n"
+"많은 것을 드러낼 수 있습니다"
 
 # Microsoft
 msgid "microsoft-title"
-msgstr ""
+msgstr "Microsoft는"
 
 msgid "microsoft-body"
 msgstr ""
+"당신의\n"
+"아이들을\n"
+"길들입니다"
 
 msgid "microsoft-footer"
 msgstr ""
+"Microsoft는 교사와 학생을 교육하는 계약을 통해\n"
+"학교와 대학에\n"
+"영향력을 사들이고 있습니다"
