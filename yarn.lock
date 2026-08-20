@@ -17,7 +17,12 @@ commander@^8.3.0:
   resolved "https://registry.yarnpkg.com/commander/-/commander-8.3.0.tgz#4837ea1b2da67b9c616a67afbb0fafee567bca66"
   integrity sha512-OkTL9umf+He2DZkUq8f8J9of7yL6RJKI24dVITBmNfZBmri9zYZQrKkuXiKhyfPSu8tUhnVBB1iKXevvnlR4Ww==
 
-content-type@1.0.4, content-type@^1.0.4:
+content-type@1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/content-type/-/content-type-1.0.5.tgz#8b773162656d1d1086784c8f23a54ce6d73d7918"
+  integrity sha512-nTjqfcBFEipKdXCv4YDQWCfmcLZKm81ldF0pAopTvyrFGVbcR6P/VAAd5G7N+0tTr8QqiU0tFadD6FK4NtJwOA==
+
+content-type@^1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/content-type/-/content-type-1.0.4.tgz#e138cc75e040c727b1966fe5e5f8c9aee256fe3b"
   integrity sha512-hIP3EEPs8tB9AT1L+NUqtwOAps4mk2Zob89MWXMHjHWg9milF/j4osnnQLXBCBFBk/tvIG/tUc9mOUJiPBhPXA==
@@ -30,12 +35,12 @@ encoding@0.1.13, encoding@^0.1.13:
     iconv-lite "^0.6.2"
 
 gettext-converter@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/gettext-converter/-/gettext-converter-1.2.0.tgz#1209a4100beb1f4d295dfb96ae90ac74974af85e"
-  integrity sha512-w4M2nn0T/ua1tXODPoPgFVAlXbdxT9BpXtFj7GstQ/0Fq4dlpB6HQS/hFaBear6y3CYE3GLKjX449o7DxhltAw==
+  version "1.3.3"
+  resolved "https://registry.yarnpkg.com/gettext-converter/-/gettext-converter-1.3.3.tgz#88e480617f5f8d64779119dc9c43013f6bffcdef"
+  integrity sha512-geN4Vc0T45a59rkUdjUYpu4PgpKdAcQ8bZPIAwNLw+ygYAahA7Ky/vwmVZ8v2szwQjHSRJDCuV8RG16PsE8a+Q==
   dependencies:
     arrify "^2.0.1"
-    content-type "1.0.4"
+    content-type "1.0.5"
     encoding "0.1.13"
 
 gettext-parser@^4.2.0:
